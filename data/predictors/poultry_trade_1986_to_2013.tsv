@@ -1,0 +1,3697 @@
+from	to	year	trade
+Bangladesh	China	2013	0
+Bangladesh	Hong Kong	2013	0
+Bangladesh	India	2013	0
+Bangladesh	Iran	2013	0
+Bangladesh	Israel	2013	0
+Bangladesh	Japan	2013	0
+Bangladesh	Pakistan	2013	0
+Bangladesh	Saudi Arabia	2013	0
+Bangladesh	South Korea	2013	0
+Bangladesh	United Arab Emirates	2013	0
+Bangladesh	Viet Nam	2013	0
+China	Bangladesh	2013	0
+China	Hong Kong	2013	4387
+China	India	2013	0
+China	Iran	2013	0
+China	Israel	2013	0
+China	Japan	2013	0
+China	Pakistan	2013	0
+China	Saudi Arabia	2013	0
+China	South Korea	2013	0
+China	United Arab Emirates	2013	0
+China	Viet Nam	2013	0
+Hong Kong	Bangladesh	2013	0
+Hong Kong	China	2013	0
+Hong Kong	India	2013	0
+Hong Kong	Iran	2013	0
+Hong Kong	Israel	2013	0
+Hong Kong	Japan	2013	0
+Hong Kong	Pakistan	2013	0
+Hong Kong	Saudi Arabia	2013	0
+Hong Kong	South Korea	2013	0
+Hong Kong	United Arab Emirates	2013	0
+Hong Kong	Viet Nam	2013	0
+India	Bangladesh	2013	0
+India	China	2013	0
+India	Hong Kong	2013	0
+India	Iran	2013	0
+India	Israel	2013	0
+India	Japan	2013	0
+India	Pakistan	2013	0
+India	Saudi Arabia	2013	170
+India	South Korea	2013	0
+India	United Arab Emirates	2013	1
+India	Viet Nam	2013	0
+Iran	Bangladesh	2013	0
+Iran	China	2013	0
+Iran	Hong Kong	2013	0
+Iran	India	2013	0
+Iran	Israel	2013	0
+Iran	Japan	2013	0
+Iran	Pakistan	2013	0
+Iran	Saudi Arabia	2013	0
+Iran	South Korea	2013	0
+Iran	United Arab Emirates	2013	0
+Iran	Viet Nam	2013	0
+Israel	Bangladesh	2013	0
+Israel	China	2013	0
+Israel	Hong Kong	2013	0
+Israel	India	2013	0
+Israel	Iran	2013	0
+Israel	Japan	2013	0
+Israel	Pakistan	2013	0
+Israel	Saudi Arabia	2013	0
+Israel	South Korea	2013	0
+Israel	United Arab Emirates	2013	0
+Israel	Viet Nam	2013	0
+Japan	Bangladesh	2013	0
+Japan	China	2013	0
+Japan	Hong Kong	2013	0
+Japan	India	2013	0
+Japan	Iran	2013	0
+Japan	Israel	2013	0
+Japan	Pakistan	2013	0
+Japan	Saudi Arabia	2013	0
+Japan	South Korea	2013	0
+Japan	United Arab Emirates	2013	0
+Japan	Viet Nam	2013	0
+Pakistan	Bangladesh	2013	15
+Pakistan	China	2013	0
+Pakistan	Hong Kong	2013	0
+Pakistan	India	2013	0
+Pakistan	Iran	2013	0
+Pakistan	Israel	2013	0
+Pakistan	Japan	2013	0
+Pakistan	Saudi Arabia	2013	0
+Pakistan	South Korea	2013	0
+Pakistan	United Arab Emirates	2013	0
+Pakistan	Viet Nam	2013	0
+Saudi Arabia	Bangladesh	2013	0
+Saudi Arabia	China	2013	0
+Saudi Arabia	Hong Kong	2013	0
+Saudi Arabia	India	2013	0
+Saudi Arabia	Iran	2013	0
+Saudi Arabia	Israel	2013	0
+Saudi Arabia	Japan	2013	0
+Saudi Arabia	Pakistan	2013	0
+Saudi Arabia	South Korea	2013	0
+Saudi Arabia	United Arab Emirates	2013	551
+Saudi Arabia	Viet Nam	2013	0
+South Korea	Bangladesh	2013	0
+South Korea	China	2013	0
+South Korea	Hong Kong	2013	0
+South Korea	India	2013	0
+South Korea	Iran	2013	0
+South Korea	Israel	2013	0
+South Korea	Japan	2013	0
+South Korea	Pakistan	2013	0
+South Korea	Saudi Arabia	2013	0
+South Korea	United Arab Emirates	2013	0
+South Korea	Viet Nam	2013	0
+United Arab Emirates	Bangladesh	2013	0
+United Arab Emirates	China	2013	0
+United Arab Emirates	Hong Kong	2013	0
+United Arab Emirates	India	2013	0
+United Arab Emirates	Iran	2013	0
+United Arab Emirates	Israel	2013	0
+United Arab Emirates	Japan	2013	0
+United Arab Emirates	Pakistan	2013	0
+United Arab Emirates	Saudi Arabia	2013	0
+United Arab Emirates	South Korea	2013	0
+United Arab Emirates	Viet Nam	2013	0
+Viet Nam	Bangladesh	2013	0
+Viet Nam	China	2013	0
+Viet Nam	Hong Kong	2013	0
+Viet Nam	India	2013	0
+Viet Nam	Iran	2013	0
+Viet Nam	Israel	2013	0
+Viet Nam	Japan	2013	0
+Viet Nam	Pakistan	2013	0
+Viet Nam	Saudi Arabia	2013	0
+Viet Nam	South Korea	2013	0
+Viet Nam	United Arab Emirates	2013	0
+Bangladesh	China	2012	0
+Bangladesh	Hong Kong	2012	0
+Bangladesh	India	2012	0
+Bangladesh	Iran	2012	0
+Bangladesh	Israel	2012	0
+Bangladesh	Japan	2012	0
+Bangladesh	Pakistan	2012	0
+Bangladesh	Saudi Arabia	2012	0
+Bangladesh	South Korea	2012	0
+Bangladesh	United Arab Emirates	2012	0
+Bangladesh	Viet Nam	2012	0
+China	Bangladesh	2012	0
+China	Hong Kong	2012	4345
+China	India	2012	0
+China	Iran	2012	0
+China	Israel	2012	0
+China	Japan	2012	0
+China	Pakistan	2012	0
+China	Saudi Arabia	2012	0
+China	South Korea	2012	0
+China	United Arab Emirates	2012	0
+China	Viet Nam	2012	0
+Hong Kong	Bangladesh	2012	0
+Hong Kong	China	2012	0
+Hong Kong	India	2012	0
+Hong Kong	Iran	2012	0
+Hong Kong	Israel	2012	0
+Hong Kong	Japan	2012	0
+Hong Kong	Pakistan	2012	0
+Hong Kong	Saudi Arabia	2012	0
+Hong Kong	South Korea	2012	0
+Hong Kong	United Arab Emirates	2012	0
+Hong Kong	Viet Nam	2012	0
+India	Bangladesh	2012	0
+India	China	2012	0
+India	Hong Kong	2012	0
+India	Iran	2012	0
+India	Israel	2012	0
+India	Japan	2012	0
+India	Pakistan	2012	0
+India	Saudi Arabia	2012	0
+India	South Korea	2012	0
+India	United Arab Emirates	2012	0
+India	Viet Nam	2012	0
+Iran	Bangladesh	2012	0
+Iran	China	2012	0
+Iran	Hong Kong	2012	0
+Iran	India	2012	0
+Iran	Israel	2012	0
+Iran	Japan	2012	0
+Iran	Pakistan	2012	0
+Iran	Saudi Arabia	2012	0
+Iran	South Korea	2012	0
+Iran	United Arab Emirates	2012	0
+Iran	Viet Nam	2012	0
+Israel	Bangladesh	2012	0
+Israel	China	2012	0
+Israel	Hong Kong	2012	0
+Israel	India	2012	0
+Israel	Iran	2012	0
+Israel	Japan	2012	0
+Israel	Pakistan	2012	0
+Israel	Saudi Arabia	2012	0
+Israel	South Korea	2012	0
+Israel	United Arab Emirates	2012	0
+Israel	Viet Nam	2012	0
+Japan	Bangladesh	2012	0
+Japan	China	2012	0
+Japan	Hong Kong	2012	0
+Japan	India	2012	0
+Japan	Iran	2012	0
+Japan	Israel	2012	0
+Japan	Pakistan	2012	0
+Japan	Saudi Arabia	2012	0
+Japan	South Korea	2012	0
+Japan	United Arab Emirates	2012	0
+Japan	Viet Nam	2012	0
+Pakistan	Bangladesh	2012	0
+Pakistan	China	2012	0
+Pakistan	Hong Kong	2012	0
+Pakistan	India	2012	0
+Pakistan	Iran	2012	0
+Pakistan	Israel	2012	0
+Pakistan	Japan	2012	0
+Pakistan	Saudi Arabia	2012	0
+Pakistan	South Korea	2012	0
+Pakistan	United Arab Emirates	2012	0
+Pakistan	Viet Nam	2012	0
+Saudi Arabia	Bangladesh	2012	0
+Saudi Arabia	China	2012	0
+Saudi Arabia	Hong Kong	2012	0
+Saudi Arabia	India	2012	0
+Saudi Arabia	Iran	2012	0
+Saudi Arabia	Israel	2012	0
+Saudi Arabia	Japan	2012	0
+Saudi Arabia	Pakistan	2012	0
+Saudi Arabia	South Korea	2012	0
+Saudi Arabia	United Arab Emirates	2012	0
+Saudi Arabia	Viet Nam	2012	0
+South Korea	Bangladesh	2012	0
+South Korea	China	2012	0
+South Korea	Hong Kong	2012	0
+South Korea	India	2012	0
+South Korea	Iran	2012	0
+South Korea	Israel	2012	0
+South Korea	Japan	2012	0
+South Korea	Pakistan	2012	0
+South Korea	Saudi Arabia	2012	0
+South Korea	United Arab Emirates	2012	0
+South Korea	Viet Nam	2012	0
+United Arab Emirates	Bangladesh	2012	0
+United Arab Emirates	China	2012	0
+United Arab Emirates	Hong Kong	2012	0
+United Arab Emirates	India	2012	0
+United Arab Emirates	Iran	2012	0
+United Arab Emirates	Israel	2012	0
+United Arab Emirates	Japan	2012	0
+United Arab Emirates	Pakistan	2012	0
+United Arab Emirates	Saudi Arabia	2012	0
+United Arab Emirates	South Korea	2012	0
+United Arab Emirates	Viet Nam	2012	0
+Viet Nam	Bangladesh	2012	0
+Viet Nam	China	2012	0
+Viet Nam	Hong Kong	2012	0
+Viet Nam	India	2012	0
+Viet Nam	Iran	2012	0
+Viet Nam	Israel	2012	0
+Viet Nam	Japan	2012	0
+Viet Nam	Pakistan	2012	0
+Viet Nam	Saudi Arabia	2012	0
+Viet Nam	South Korea	2012	0
+Viet Nam	United Arab Emirates	2012	0
+Bangladesh	China	2011	0
+Bangladesh	Hong Kong	2011	0
+Bangladesh	India	2011	0
+Bangladesh	Iran	2011	0
+Bangladesh	Israel	2011	0
+Bangladesh	Japan	2011	0
+Bangladesh	Pakistan	2011	0
+Bangladesh	Saudi Arabia	2011	0
+Bangladesh	South Korea	2011	0
+Bangladesh	United Arab Emirates	2011	0
+Bangladesh	Viet Nam	2011	0
+China	Bangladesh	2011	0
+China	Hong Kong	2011	4352
+China	India	2011	0
+China	Iran	2011	0
+China	Israel	2011	0
+China	Japan	2011	0
+China	Pakistan	2011	0
+China	Saudi Arabia	2011	0
+China	South Korea	2011	0
+China	United Arab Emirates	2011	0
+China	Viet Nam	2011	0
+Hong Kong	Bangladesh	2011	0
+Hong Kong	China	2011	0
+Hong Kong	India	2011	0
+Hong Kong	Iran	2011	0
+Hong Kong	Israel	2011	0
+Hong Kong	Japan	2011	0
+Hong Kong	Pakistan	2011	0
+Hong Kong	Saudi Arabia	2011	0
+Hong Kong	South Korea	2011	0
+Hong Kong	United Arab Emirates	2011	0
+Hong Kong	Viet Nam	2011	0
+India	Bangladesh	2011	7
+India	China	2011	0
+India	Hong Kong	2011	0
+India	Iran	2011	0
+India	Israel	2011	0
+India	Japan	2011	0
+India	Pakistan	2011	0
+India	Saudi Arabia	2011	0
+India	South Korea	2011	0
+India	United Arab Emirates	2011	0
+India	Viet Nam	2011	0
+Iran	Bangladesh	2011	0
+Iran	China	2011	0
+Iran	Hong Kong	2011	0
+Iran	India	2011	0
+Iran	Israel	2011	0
+Iran	Japan	2011	0
+Iran	Pakistan	2011	0
+Iran	Saudi Arabia	2011	0
+Iran	South Korea	2011	0
+Iran	United Arab Emirates	2011	0
+Iran	Viet Nam	2011	0
+Israel	Bangladesh	2011	0
+Israel	China	2011	0
+Israel	Hong Kong	2011	0
+Israel	India	2011	0
+Israel	Iran	2011	0
+Israel	Japan	2011	0
+Israel	Pakistan	2011	0
+Israel	Saudi Arabia	2011	0
+Israel	South Korea	2011	0
+Israel	United Arab Emirates	2011	0
+Israel	Viet Nam	2011	0
+Japan	Bangladesh	2011	0
+Japan	China	2011	0
+Japan	Hong Kong	2011	0
+Japan	India	2011	0
+Japan	Iran	2011	0
+Japan	Israel	2011	0
+Japan	Pakistan	2011	0
+Japan	Saudi Arabia	2011	0
+Japan	South Korea	2011	0
+Japan	United Arab Emirates	2011	0
+Japan	Viet Nam	2011	0
+Pakistan	Bangladesh	2011	0
+Pakistan	China	2011	0
+Pakistan	Hong Kong	2011	0
+Pakistan	India	2011	0
+Pakistan	Iran	2011	0
+Pakistan	Israel	2011	0
+Pakistan	Japan	2011	0
+Pakistan	Saudi Arabia	2011	0
+Pakistan	South Korea	2011	0
+Pakistan	United Arab Emirates	2011	0
+Pakistan	Viet Nam	2011	0
+Saudi Arabia	Bangladesh	2011	0
+Saudi Arabia	China	2011	0
+Saudi Arabia	Hong Kong	2011	0
+Saudi Arabia	India	2011	0
+Saudi Arabia	Iran	2011	0
+Saudi Arabia	Israel	2011	0
+Saudi Arabia	Japan	2011	0
+Saudi Arabia	Pakistan	2011	0
+Saudi Arabia	South Korea	2011	0
+Saudi Arabia	United Arab Emirates	2011	0
+Saudi Arabia	Viet Nam	2011	0
+South Korea	Bangladesh	2011	0
+South Korea	China	2011	0
+South Korea	Hong Kong	2011	0
+South Korea	India	2011	0
+South Korea	Iran	2011	0
+South Korea	Israel	2011	0
+South Korea	Japan	2011	0
+South Korea	Pakistan	2011	0
+South Korea	Saudi Arabia	2011	0
+South Korea	United Arab Emirates	2011	0
+South Korea	Viet Nam	2011	0
+United Arab Emirates	Bangladesh	2011	0
+United Arab Emirates	China	2011	0
+United Arab Emirates	Hong Kong	2011	0
+United Arab Emirates	India	2011	0
+United Arab Emirates	Iran	2011	0
+United Arab Emirates	Israel	2011	0
+United Arab Emirates	Japan	2011	0
+United Arab Emirates	Pakistan	2011	0
+United Arab Emirates	Saudi Arabia	2011	0
+United Arab Emirates	South Korea	2011	0
+United Arab Emirates	Viet Nam	2011	0
+Viet Nam	Bangladesh	2011	0
+Viet Nam	China	2011	0
+Viet Nam	Hong Kong	2011	0
+Viet Nam	India	2011	0
+Viet Nam	Iran	2011	0
+Viet Nam	Israel	2011	0
+Viet Nam	Japan	2011	0
+Viet Nam	Pakistan	2011	0
+Viet Nam	Saudi Arabia	2011	0
+Viet Nam	South Korea	2011	0
+Viet Nam	United Arab Emirates	2011	0
+Bangladesh	China	2010	0
+Bangladesh	Hong Kong	2010	0
+Bangladesh	India	2010	0
+Bangladesh	Iran	2010	0
+Bangladesh	Israel	2010	0
+Bangladesh	Japan	2010	0
+Bangladesh	Pakistan	2010	0
+Bangladesh	Saudi Arabia	2010	0
+Bangladesh	South Korea	2010	0
+Bangladesh	United Arab Emirates	2010	0
+Bangladesh	Viet Nam	2010	0
+China	Bangladesh	2010	0
+China	Hong Kong	2010	4421
+China	India	2010	0
+China	Iran	2010	0
+China	Israel	2010	0
+China	Japan	2010	0
+China	Pakistan	2010	0
+China	Saudi Arabia	2010	0
+China	South Korea	2010	0
+China	United Arab Emirates	2010	0
+China	Viet Nam	2010	0
+Hong Kong	Bangladesh	2010	0
+Hong Kong	China	2010	0
+Hong Kong	India	2010	0
+Hong Kong	Iran	2010	0
+Hong Kong	Israel	2010	0
+Hong Kong	Japan	2010	0
+Hong Kong	Pakistan	2010	0
+Hong Kong	Saudi Arabia	2010	0
+Hong Kong	South Korea	2010	0
+Hong Kong	United Arab Emirates	2010	0
+Hong Kong	Viet Nam	2010	0
+India	Bangladesh	2010	129
+India	China	2010	0
+India	Hong Kong	2010	0
+India	Iran	2010	0
+India	Israel	2010	0
+India	Japan	2010	0
+India	Pakistan	2010	0
+India	Saudi Arabia	2010	0
+India	South Korea	2010	0
+India	United Arab Emirates	2010	0
+India	Viet Nam	2010	0
+Iran	Bangladesh	2010	0
+Iran	China	2010	0
+Iran	Hong Kong	2010	0
+Iran	India	2010	0
+Iran	Israel	2010	0
+Iran	Japan	2010	0
+Iran	Pakistan	2010	0
+Iran	Saudi Arabia	2010	0
+Iran	South Korea	2010	0
+Iran	United Arab Emirates	2010	0
+Iran	Viet Nam	2010	0
+Israel	Bangladesh	2010	0
+Israel	China	2010	0
+Israel	Hong Kong	2010	0
+Israel	India	2010	0
+Israel	Iran	2010	0
+Israel	Japan	2010	0
+Israel	Pakistan	2010	0
+Israel	Saudi Arabia	2010	0
+Israel	South Korea	2010	0
+Israel	United Arab Emirates	2010	0
+Israel	Viet Nam	2010	0
+Japan	Bangladesh	2010	0
+Japan	China	2010	0
+Japan	Hong Kong	2010	0
+Japan	India	2010	0
+Japan	Iran	2010	0
+Japan	Israel	2010	0
+Japan	Pakistan	2010	0
+Japan	Saudi Arabia	2010	0
+Japan	South Korea	2010	0
+Japan	United Arab Emirates	2010	0
+Japan	Viet Nam	2010	0
+Pakistan	Bangladesh	2010	0
+Pakistan	China	2010	0
+Pakistan	Hong Kong	2010	0
+Pakistan	India	2010	0
+Pakistan	Iran	2010	0
+Pakistan	Israel	2010	0
+Pakistan	Japan	2010	0
+Pakistan	Saudi Arabia	2010	0
+Pakistan	South Korea	2010	0
+Pakistan	United Arab Emirates	2010	0
+Pakistan	Viet Nam	2010	0
+Saudi Arabia	Bangladesh	2010	0
+Saudi Arabia	China	2010	0
+Saudi Arabia	Hong Kong	2010	0
+Saudi Arabia	India	2010	0
+Saudi Arabia	Iran	2010	0
+Saudi Arabia	Israel	2010	0
+Saudi Arabia	Japan	2010	0
+Saudi Arabia	Pakistan	2010	0
+Saudi Arabia	South Korea	2010	0
+Saudi Arabia	United Arab Emirates	2010	0
+Saudi Arabia	Viet Nam	2010	0
+South Korea	Bangladesh	2010	0
+South Korea	China	2010	0
+South Korea	Hong Kong	2010	0
+South Korea	India	2010	0
+South Korea	Iran	2010	0
+South Korea	Israel	2010	0
+South Korea	Japan	2010	0
+South Korea	Pakistan	2010	0
+South Korea	Saudi Arabia	2010	0
+South Korea	United Arab Emirates	2010	0
+South Korea	Viet Nam	2010	0
+United Arab Emirates	Bangladesh	2010	0
+United Arab Emirates	China	2010	0
+United Arab Emirates	Hong Kong	2010	0
+United Arab Emirates	India	2010	0
+United Arab Emirates	Iran	2010	0
+United Arab Emirates	Israel	2010	0
+United Arab Emirates	Japan	2010	0
+United Arab Emirates	Pakistan	2010	0
+United Arab Emirates	Saudi Arabia	2010	0
+United Arab Emirates	South Korea	2010	0
+United Arab Emirates	Viet Nam	2010	0
+Viet Nam	Bangladesh	2010	0
+Viet Nam	China	2010	0
+Viet Nam	Hong Kong	2010	0
+Viet Nam	India	2010	0
+Viet Nam	Iran	2010	0
+Viet Nam	Israel	2010	0
+Viet Nam	Japan	2010	0
+Viet Nam	Pakistan	2010	0
+Viet Nam	Saudi Arabia	2010	0
+Viet Nam	South Korea	2010	0
+Viet Nam	United Arab Emirates	2010	0
+Bangladesh	China	2009	0
+Bangladesh	Hong Kong	2009	0
+Bangladesh	India	2009	0
+Bangladesh	Iran	2009	0
+Bangladesh	Israel	2009	0
+Bangladesh	Japan	2009	0
+Bangladesh	Pakistan	2009	0
+Bangladesh	Saudi Arabia	2009	0
+Bangladesh	South Korea	2009	0
+Bangladesh	United Arab Emirates	2009	0
+Bangladesh	Viet Nam	2009	0
+China	Bangladesh	2009	0
+China	Hong Kong	2009	4386
+China	India	2009	0
+China	Iran	2009	0
+China	Israel	2009	0
+China	Japan	2009	0
+China	Pakistan	2009	0
+China	Saudi Arabia	2009	0
+China	South Korea	2009	0
+China	United Arab Emirates	2009	0
+China	Viet Nam	2009	0
+Hong Kong	Bangladesh	2009	0
+Hong Kong	China	2009	0
+Hong Kong	India	2009	0
+Hong Kong	Iran	2009	0
+Hong Kong	Israel	2009	0
+Hong Kong	Japan	2009	0
+Hong Kong	Pakistan	2009	0
+Hong Kong	Saudi Arabia	2009	0
+Hong Kong	South Korea	2009	0
+Hong Kong	United Arab Emirates	2009	0
+Hong Kong	Viet Nam	2009	0
+India	Bangladesh	2009	0
+India	China	2009	0
+India	Hong Kong	2009	0
+India	Iran	2009	0
+India	Israel	2009	0
+India	Japan	2009	0
+India	Pakistan	2009	0
+India	Saudi Arabia	2009	10
+India	South Korea	2009	0
+India	United Arab Emirates	2009	0
+India	Viet Nam	2009	0
+Iran	Bangladesh	2009	0
+Iran	China	2009	0
+Iran	Hong Kong	2009	0
+Iran	India	2009	0
+Iran	Israel	2009	0
+Iran	Japan	2009	0
+Iran	Pakistan	2009	0
+Iran	Saudi Arabia	2009	0
+Iran	South Korea	2009	0
+Iran	United Arab Emirates	2009	0
+Iran	Viet Nam	2009	0
+Israel	Bangladesh	2009	0
+Israel	China	2009	0
+Israel	Hong Kong	2009	0
+Israel	India	2009	0
+Israel	Iran	2009	0
+Israel	Japan	2009	0
+Israel	Pakistan	2009	0
+Israel	Saudi Arabia	2009	0
+Israel	South Korea	2009	0
+Israel	United Arab Emirates	2009	0
+Israel	Viet Nam	2009	0
+Japan	Bangladesh	2009	0
+Japan	China	2009	0
+Japan	Hong Kong	2009	0
+Japan	India	2009	0
+Japan	Iran	2009	0
+Japan	Israel	2009	0
+Japan	Pakistan	2009	0
+Japan	Saudi Arabia	2009	0
+Japan	South Korea	2009	0
+Japan	United Arab Emirates	2009	0
+Japan	Viet Nam	2009	0
+Pakistan	Bangladesh	2009	0
+Pakistan	China	2009	0
+Pakistan	Hong Kong	2009	0
+Pakistan	India	2009	0
+Pakistan	Iran	2009	0
+Pakistan	Israel	2009	0
+Pakistan	Japan	2009	0
+Pakistan	Saudi Arabia	2009	0
+Pakistan	South Korea	2009	0
+Pakistan	United Arab Emirates	2009	0
+Pakistan	Viet Nam	2009	0
+Saudi Arabia	Bangladesh	2009	0
+Saudi Arabia	China	2009	0
+Saudi Arabia	Hong Kong	2009	0
+Saudi Arabia	India	2009	0
+Saudi Arabia	Iran	2009	0
+Saudi Arabia	Israel	2009	0
+Saudi Arabia	Japan	2009	0
+Saudi Arabia	Pakistan	2009	0
+Saudi Arabia	South Korea	2009	0
+Saudi Arabia	United Arab Emirates	2009	0
+Saudi Arabia	Viet Nam	2009	0
+South Korea	Bangladesh	2009	0
+South Korea	China	2009	0
+South Korea	Hong Kong	2009	0
+South Korea	India	2009	0
+South Korea	Iran	2009	0
+South Korea	Israel	2009	0
+South Korea	Japan	2009	0
+South Korea	Pakistan	2009	0
+South Korea	Saudi Arabia	2009	0
+South Korea	United Arab Emirates	2009	0
+South Korea	Viet Nam	2009	0
+United Arab Emirates	Bangladesh	2009	0
+United Arab Emirates	China	2009	0
+United Arab Emirates	Hong Kong	2009	0
+United Arab Emirates	India	2009	0
+United Arab Emirates	Iran	2009	0
+United Arab Emirates	Israel	2009	0
+United Arab Emirates	Japan	2009	0
+United Arab Emirates	Pakistan	2009	0
+United Arab Emirates	Saudi Arabia	2009	0
+United Arab Emirates	South Korea	2009	0
+United Arab Emirates	Viet Nam	2009	0
+Viet Nam	Bangladesh	2009	0
+Viet Nam	China	2009	0
+Viet Nam	Hong Kong	2009	0
+Viet Nam	India	2009	0
+Viet Nam	Iran	2009	0
+Viet Nam	Israel	2009	0
+Viet Nam	Japan	2009	0
+Viet Nam	Pakistan	2009	0
+Viet Nam	Saudi Arabia	2009	0
+Viet Nam	South Korea	2009	0
+Viet Nam	United Arab Emirates	2009	0
+Bangladesh	China	2008	0
+Bangladesh	Hong Kong	2008	0
+Bangladesh	India	2008	0
+Bangladesh	Iran	2008	0
+Bangladesh	Israel	2008	0
+Bangladesh	Japan	2008	0
+Bangladesh	Pakistan	2008	0
+Bangladesh	Saudi Arabia	2008	0
+Bangladesh	South Korea	2008	0
+Bangladesh	United Arab Emirates	2008	0
+Bangladesh	Viet Nam	2008	0
+China	Bangladesh	2008	0
+China	Hong Kong	2008	8630
+China	India	2008	0
+China	Iran	2008	0
+China	Israel	2008	0
+China	Japan	2008	0
+China	Pakistan	2008	0
+China	Saudi Arabia	2008	0
+China	South Korea	2008	0
+China	United Arab Emirates	2008	0
+China	Viet Nam	2008	0
+Hong Kong	Bangladesh	2008	0
+Hong Kong	China	2008	0
+Hong Kong	India	2008	0
+Hong Kong	Iran	2008	0
+Hong Kong	Israel	2008	0
+Hong Kong	Japan	2008	0
+Hong Kong	Pakistan	2008	0
+Hong Kong	Saudi Arabia	2008	0
+Hong Kong	South Korea	2008	10
+Hong Kong	United Arab Emirates	2008	0
+Hong Kong	Viet Nam	2008	0
+India	Bangladesh	2008	126
+India	China	2008	0
+India	Hong Kong	2008	0
+India	Iran	2008	0
+India	Israel	2008	0
+India	Japan	2008	0
+India	Pakistan	2008	0
+India	Saudi Arabia	2008	0
+India	South Korea	2008	0
+India	United Arab Emirates	2008	0
+India	Viet Nam	2008	0
+Iran	Bangladesh	2008	0
+Iran	China	2008	0
+Iran	Hong Kong	2008	0
+Iran	India	2008	0
+Iran	Israel	2008	0
+Iran	Japan	2008	0
+Iran	Pakistan	2008	0
+Iran	Saudi Arabia	2008	0
+Iran	South Korea	2008	0
+Iran	United Arab Emirates	2008	0
+Iran	Viet Nam	2008	0
+Israel	Bangladesh	2008	0
+Israel	China	2008	0
+Israel	Hong Kong	2008	0
+Israel	India	2008	0
+Israel	Iran	2008	0
+Israel	Japan	2008	0
+Israel	Pakistan	2008	0
+Israel	Saudi Arabia	2008	0
+Israel	South Korea	2008	0
+Israel	United Arab Emirates	2008	0
+Israel	Viet Nam	2008	0
+Japan	Bangladesh	2008	0
+Japan	China	2008	0
+Japan	Hong Kong	2008	0
+Japan	India	2008	0
+Japan	Iran	2008	0
+Japan	Israel	2008	0
+Japan	Pakistan	2008	0
+Japan	Saudi Arabia	2008	0
+Japan	South Korea	2008	0
+Japan	United Arab Emirates	2008	0
+Japan	Viet Nam	2008	0
+Pakistan	Bangladesh	2008	0
+Pakistan	China	2008	0
+Pakistan	Hong Kong	2008	0
+Pakistan	India	2008	0
+Pakistan	Iran	2008	0
+Pakistan	Israel	2008	0
+Pakistan	Japan	2008	0
+Pakistan	Saudi Arabia	2008	0
+Pakistan	South Korea	2008	0
+Pakistan	United Arab Emirates	2008	0
+Pakistan	Viet Nam	2008	0
+Saudi Arabia	Bangladesh	2008	0
+Saudi Arabia	China	2008	0
+Saudi Arabia	Hong Kong	2008	0
+Saudi Arabia	India	2008	0
+Saudi Arabia	Iran	2008	0
+Saudi Arabia	Israel	2008	0
+Saudi Arabia	Japan	2008	0
+Saudi Arabia	Pakistan	2008	0
+Saudi Arabia	South Korea	2008	0
+Saudi Arabia	United Arab Emirates	2008	0
+Saudi Arabia	Viet Nam	2008	0
+South Korea	Bangladesh	2008	0
+South Korea	China	2008	0
+South Korea	Hong Kong	2008	0
+South Korea	India	2008	0
+South Korea	Iran	2008	0
+South Korea	Israel	2008	0
+South Korea	Japan	2008	0
+South Korea	Pakistan	2008	0
+South Korea	Saudi Arabia	2008	0
+South Korea	United Arab Emirates	2008	0
+South Korea	Viet Nam	2008	0
+United Arab Emirates	Bangladesh	2008	0
+United Arab Emirates	China	2008	0
+United Arab Emirates	Hong Kong	2008	0
+United Arab Emirates	India	2008	0
+United Arab Emirates	Iran	2008	0
+United Arab Emirates	Israel	2008	0
+United Arab Emirates	Japan	2008	0
+United Arab Emirates	Pakistan	2008	0
+United Arab Emirates	Saudi Arabia	2008	0
+United Arab Emirates	South Korea	2008	0
+United Arab Emirates	Viet Nam	2008	0
+Viet Nam	Bangladesh	2008	0
+Viet Nam	China	2008	0
+Viet Nam	Hong Kong	2008	0
+Viet Nam	India	2008	0
+Viet Nam	Iran	2008	0
+Viet Nam	Israel	2008	0
+Viet Nam	Japan	2008	0
+Viet Nam	Pakistan	2008	0
+Viet Nam	Saudi Arabia	2008	0
+Viet Nam	South Korea	2008	0
+Viet Nam	United Arab Emirates	2008	0
+Bangladesh	China	2007	0
+Bangladesh	Hong Kong	2007	0
+Bangladesh	India	2007	0
+Bangladesh	Iran	2007	0
+Bangladesh	Israel	2007	0
+Bangladesh	Japan	2007	0
+Bangladesh	Pakistan	2007	0
+Bangladesh	Saudi Arabia	2007	0
+Bangladesh	South Korea	2007	0
+Bangladesh	United Arab Emirates	2007	0
+Bangladesh	Viet Nam	2007	0
+China	Bangladesh	2007	0
+China	Hong Kong	2007	13163
+China	India	2007	0
+China	Iran	2007	0
+China	Israel	2007	0
+China	Japan	2007	0
+China	Pakistan	2007	0
+China	Saudi Arabia	2007	0
+China	South Korea	2007	0
+China	United Arab Emirates	2007	0
+China	Viet Nam	2007	0
+Hong Kong	Bangladesh	2007	0
+Hong Kong	China	2007	0
+Hong Kong	India	2007	0
+Hong Kong	Iran	2007	0
+Hong Kong	Israel	2007	0
+Hong Kong	Japan	2007	0
+Hong Kong	Pakistan	2007	0
+Hong Kong	Saudi Arabia	2007	0
+Hong Kong	South Korea	2007	0
+Hong Kong	United Arab Emirates	2007	0
+Hong Kong	Viet Nam	2007	0
+India	Bangladesh	2007	48
+India	China	2007	0
+India	Hong Kong	2007	0
+India	Iran	2007	0
+India	Israel	2007	0
+India	Japan	2007	0
+India	Pakistan	2007	0
+India	Saudi Arabia	2007	0
+India	South Korea	2007	0
+India	United Arab Emirates	2007	0
+India	Viet Nam	2007	0
+Iran	Bangladesh	2007	0
+Iran	China	2007	0
+Iran	Hong Kong	2007	0
+Iran	India	2007	0
+Iran	Israel	2007	0
+Iran	Japan	2007	0
+Iran	Pakistan	2007	0
+Iran	Saudi Arabia	2007	0
+Iran	South Korea	2007	0
+Iran	United Arab Emirates	2007	0
+Iran	Viet Nam	2007	0
+Israel	Bangladesh	2007	0
+Israel	China	2007	0
+Israel	Hong Kong	2007	0
+Israel	India	2007	0
+Israel	Iran	2007	0
+Israel	Japan	2007	0
+Israel	Pakistan	2007	0
+Israel	Saudi Arabia	2007	0
+Israel	South Korea	2007	0
+Israel	United Arab Emirates	2007	0
+Israel	Viet Nam	2007	0
+Japan	Bangladesh	2007	0
+Japan	China	2007	0
+Japan	Hong Kong	2007	0
+Japan	India	2007	0
+Japan	Iran	2007	0
+Japan	Israel	2007	0
+Japan	Pakistan	2007	0
+Japan	Saudi Arabia	2007	0
+Japan	South Korea	2007	0
+Japan	United Arab Emirates	2007	0
+Japan	Viet Nam	2007	0
+Pakistan	Bangladesh	2007	0
+Pakistan	China	2007	0
+Pakistan	Hong Kong	2007	0
+Pakistan	India	2007	0
+Pakistan	Iran	2007	0
+Pakistan	Israel	2007	0
+Pakistan	Japan	2007	0
+Pakistan	Saudi Arabia	2007	0
+Pakistan	South Korea	2007	0
+Pakistan	United Arab Emirates	2007	0
+Pakistan	Viet Nam	2007	0
+Saudi Arabia	Bangladesh	2007	0
+Saudi Arabia	China	2007	4
+Saudi Arabia	Hong Kong	2007	0
+Saudi Arabia	India	2007	0
+Saudi Arabia	Iran	2007	25
+Saudi Arabia	Israel	2007	0
+Saudi Arabia	Japan	2007	0
+Saudi Arabia	Pakistan	2007	0
+Saudi Arabia	South Korea	2007	0
+Saudi Arabia	United Arab Emirates	2007	12
+Saudi Arabia	Viet Nam	2007	0
+South Korea	Bangladesh	2007	0
+South Korea	China	2007	0
+South Korea	Hong Kong	2007	0
+South Korea	India	2007	0
+South Korea	Iran	2007	0
+South Korea	Israel	2007	0
+South Korea	Japan	2007	0
+South Korea	Pakistan	2007	0
+South Korea	Saudi Arabia	2007	0
+South Korea	United Arab Emirates	2007	0
+South Korea	Viet Nam	2007	0
+United Arab Emirates	Bangladesh	2007	0
+United Arab Emirates	China	2007	0
+United Arab Emirates	Hong Kong	2007	0
+United Arab Emirates	India	2007	0
+United Arab Emirates	Iran	2007	360
+United Arab Emirates	Israel	2007	0
+United Arab Emirates	Japan	2007	0
+United Arab Emirates	Pakistan	2007	0
+United Arab Emirates	Saudi Arabia	2007	0
+United Arab Emirates	South Korea	2007	0
+United Arab Emirates	Viet Nam	2007	0
+Viet Nam	Bangladesh	2007	0
+Viet Nam	China	2007	0
+Viet Nam	Hong Kong	2007	0
+Viet Nam	India	2007	0
+Viet Nam	Iran	2007	0
+Viet Nam	Israel	2007	0
+Viet Nam	Japan	2007	0
+Viet Nam	Pakistan	2007	0
+Viet Nam	Saudi Arabia	2007	0
+Viet Nam	South Korea	2007	0
+Viet Nam	United Arab Emirates	2007	0
+Bangladesh	China	2006	0
+Bangladesh	Hong Kong	2006	0
+Bangladesh	India	2006	0
+Bangladesh	Iran	2006	0
+Bangladesh	Israel	2006	0
+Bangladesh	Japan	2006	0
+Bangladesh	Pakistan	2006	0
+Bangladesh	Saudi Arabia	2006	0
+Bangladesh	South Korea	2006	0
+Bangladesh	United Arab Emirates	2006	0
+Bangladesh	Viet Nam	2006	0
+China	Bangladesh	2006	0
+China	Hong Kong	2006	16217
+China	India	2006	0
+China	Iran	2006	0
+China	Israel	2006	0
+China	Japan	2006	0
+China	Pakistan	2006	0
+China	Saudi Arabia	2006	0
+China	South Korea	2006	0
+China	United Arab Emirates	2006	0
+China	Viet Nam	2006	0
+Hong Kong	Bangladesh	2006	0
+Hong Kong	China	2006	0
+Hong Kong	India	2006	0
+Hong Kong	Iran	2006	0
+Hong Kong	Israel	2006	0
+Hong Kong	Japan	2006	0
+Hong Kong	Pakistan	2006	0
+Hong Kong	Saudi Arabia	2006	0
+Hong Kong	South Korea	2006	0
+Hong Kong	United Arab Emirates	2006	0
+Hong Kong	Viet Nam	2006	0
+India	Bangladesh	2006	35
+India	China	2006	0
+India	Hong Kong	2006	0
+India	Iran	2006	0
+India	Israel	2006	0
+India	Japan	2006	0
+India	Pakistan	2006	1
+India	Saudi Arabia	2006	0
+India	South Korea	2006	0
+India	United Arab Emirates	2006	0
+India	Viet Nam	2006	0
+Iran	Bangladesh	2006	0
+Iran	China	2006	0
+Iran	Hong Kong	2006	0
+Iran	India	2006	0
+Iran	Israel	2006	0
+Iran	Japan	2006	0
+Iran	Pakistan	2006	0
+Iran	Saudi Arabia	2006	0
+Iran	South Korea	2006	0
+Iran	United Arab Emirates	2006	0
+Iran	Viet Nam	2006	0
+Israel	Bangladesh	2006	0
+Israel	China	2006	0
+Israel	Hong Kong	2006	0
+Israel	India	2006	0
+Israel	Iran	2006	0
+Israel	Japan	2006	0
+Israel	Pakistan	2006	0
+Israel	Saudi Arabia	2006	0
+Israel	South Korea	2006	0
+Israel	United Arab Emirates	2006	0
+Israel	Viet Nam	2006	0
+Japan	Bangladesh	2006	0
+Japan	China	2006	0
+Japan	Hong Kong	2006	0
+Japan	India	2006	0
+Japan	Iran	2006	0
+Japan	Israel	2006	0
+Japan	Pakistan	2006	0
+Japan	Saudi Arabia	2006	0
+Japan	South Korea	2006	0
+Japan	United Arab Emirates	2006	0
+Japan	Viet Nam	2006	0
+Pakistan	Bangladesh	2006	0
+Pakistan	China	2006	0
+Pakistan	Hong Kong	2006	0
+Pakistan	India	2006	0
+Pakistan	Iran	2006	0
+Pakistan	Israel	2006	0
+Pakistan	Japan	2006	0
+Pakistan	Saudi Arabia	2006	0
+Pakistan	South Korea	2006	0
+Pakistan	United Arab Emirates	2006	10
+Pakistan	Viet Nam	2006	0
+Saudi Arabia	Bangladesh	2006	0
+Saudi Arabia	China	2006	0
+Saudi Arabia	Hong Kong	2006	0
+Saudi Arabia	India	2006	0
+Saudi Arabia	Iran	2006	0
+Saudi Arabia	Israel	2006	0
+Saudi Arabia	Japan	2006	0
+Saudi Arabia	Pakistan	2006	0
+Saudi Arabia	South Korea	2006	0
+Saudi Arabia	United Arab Emirates	2006	593
+Saudi Arabia	Viet Nam	2006	0
+South Korea	Bangladesh	2006	0
+South Korea	China	2006	0
+South Korea	Hong Kong	2006	0
+South Korea	India	2006	0
+South Korea	Iran	2006	0
+South Korea	Israel	2006	0
+South Korea	Japan	2006	0
+South Korea	Pakistan	2006	0
+South Korea	Saudi Arabia	2006	0
+South Korea	United Arab Emirates	2006	0
+South Korea	Viet Nam	2006	0
+United Arab Emirates	Bangladesh	2006	0
+United Arab Emirates	China	2006	0
+United Arab Emirates	Hong Kong	2006	0
+United Arab Emirates	India	2006	0
+United Arab Emirates	Iran	2006	0
+United Arab Emirates	Israel	2006	0
+United Arab Emirates	Japan	2006	0
+United Arab Emirates	Pakistan	2006	0
+United Arab Emirates	Saudi Arabia	2006	0
+United Arab Emirates	South Korea	2006	0
+United Arab Emirates	Viet Nam	2006	0
+Viet Nam	Bangladesh	2006	0
+Viet Nam	China	2006	0
+Viet Nam	Hong Kong	2006	0
+Viet Nam	India	2006	0
+Viet Nam	Iran	2006	0
+Viet Nam	Israel	2006	0
+Viet Nam	Japan	2006	0
+Viet Nam	Pakistan	2006	0
+Viet Nam	Saudi Arabia	2006	0
+Viet Nam	South Korea	2006	0
+Viet Nam	United Arab Emirates	2006	0
+Bangladesh	China	2005	0
+Bangladesh	Hong Kong	2005	0
+Bangladesh	India	2005	0
+Bangladesh	Iran	2005	0
+Bangladesh	Israel	2005	0
+Bangladesh	Japan	2005	0
+Bangladesh	Pakistan	2005	0
+Bangladesh	Saudi Arabia	2005	0
+Bangladesh	South Korea	2005	0
+Bangladesh	United Arab Emirates	2005	0
+Bangladesh	Viet Nam	2005	0
+China	Bangladesh	2005	0
+China	Hong Kong	2005	21938
+China	India	2005	0
+China	Iran	2005	0
+China	Israel	2005	0
+China	Japan	2005	0
+China	Pakistan	2005	0
+China	Saudi Arabia	2005	0
+China	South Korea	2005	0
+China	United Arab Emirates	2005	0
+China	Viet Nam	2005	0
+Hong Kong	Bangladesh	2005	0
+Hong Kong	China	2005	0
+Hong Kong	India	2005	0
+Hong Kong	Iran	2005	0
+Hong Kong	Israel	2005	0
+Hong Kong	Japan	2005	0
+Hong Kong	Pakistan	2005	0
+Hong Kong	Saudi Arabia	2005	0
+Hong Kong	South Korea	2005	0
+Hong Kong	United Arab Emirates	2005	0
+Hong Kong	Viet Nam	2005	0
+India	Bangladesh	2005	0
+India	China	2005	0
+India	Hong Kong	2005	0
+India	Iran	2005	0
+India	Israel	2005	0
+India	Japan	2005	0
+India	Pakistan	2005	0
+India	Saudi Arabia	2005	5
+India	South Korea	2005	0
+India	United Arab Emirates	2005	0
+India	Viet Nam	2005	0
+Iran	Bangladesh	2005	0
+Iran	China	2005	0
+Iran	Hong Kong	2005	0
+Iran	India	2005	0
+Iran	Israel	2005	0
+Iran	Japan	2005	0
+Iran	Pakistan	2005	0
+Iran	Saudi Arabia	2005	0
+Iran	South Korea	2005	0
+Iran	United Arab Emirates	2005	45
+Iran	Viet Nam	2005	0
+Israel	Bangladesh	2005	0
+Israel	China	2005	0
+Israel	Hong Kong	2005	0
+Israel	India	2005	0
+Israel	Iran	2005	0
+Israel	Japan	2005	0
+Israel	Pakistan	2005	0
+Israel	Saudi Arabia	2005	0
+Israel	South Korea	2005	0
+Israel	United Arab Emirates	2005	0
+Israel	Viet Nam	2005	0
+Japan	Bangladesh	2005	0
+Japan	China	2005	0
+Japan	Hong Kong	2005	0
+Japan	India	2005	0
+Japan	Iran	2005	0
+Japan	Israel	2005	0
+Japan	Pakistan	2005	0
+Japan	Saudi Arabia	2005	0
+Japan	South Korea	2005	0
+Japan	United Arab Emirates	2005	0
+Japan	Viet Nam	2005	0
+Pakistan	Bangladesh	2005	0
+Pakistan	China	2005	0
+Pakistan	Hong Kong	2005	0
+Pakistan	India	2005	0
+Pakistan	Iran	2005	0
+Pakistan	Israel	2005	0
+Pakistan	Japan	2005	0
+Pakistan	Saudi Arabia	2005	0
+Pakistan	South Korea	2005	0
+Pakistan	United Arab Emirates	2005	18
+Pakistan	Viet Nam	2005	0
+Saudi Arabia	Bangladesh	2005	0
+Saudi Arabia	China	2005	0
+Saudi Arabia	Hong Kong	2005	0
+Saudi Arabia	India	2005	0
+Saudi Arabia	Iran	2005	0
+Saudi Arabia	Israel	2005	0
+Saudi Arabia	Japan	2005	0
+Saudi Arabia	Pakistan	2005	0
+Saudi Arabia	South Korea	2005	0
+Saudi Arabia	United Arab Emirates	2005	0
+Saudi Arabia	Viet Nam	2005	0
+South Korea	Bangladesh	2005	0
+South Korea	China	2005	0
+South Korea	Hong Kong	2005	0
+South Korea	India	2005	0
+South Korea	Iran	2005	0
+South Korea	Israel	2005	0
+South Korea	Japan	2005	0
+South Korea	Pakistan	2005	0
+South Korea	Saudi Arabia	2005	0
+South Korea	United Arab Emirates	2005	0
+South Korea	Viet Nam	2005	0
+United Arab Emirates	Bangladesh	2005	8
+United Arab Emirates	China	2005	0
+United Arab Emirates	Hong Kong	2005	0
+United Arab Emirates	India	2005	0
+United Arab Emirates	Iran	2005	0
+United Arab Emirates	Israel	2005	0
+United Arab Emirates	Japan	2005	0
+United Arab Emirates	Pakistan	2005	0
+United Arab Emirates	Saudi Arabia	2005	316
+United Arab Emirates	South Korea	2005	0
+United Arab Emirates	Viet Nam	2005	0
+Viet Nam	Bangladesh	2005	0
+Viet Nam	China	2005	0
+Viet Nam	Hong Kong	2005	0
+Viet Nam	India	2005	0
+Viet Nam	Iran	2005	0
+Viet Nam	Israel	2005	0
+Viet Nam	Japan	2005	0
+Viet Nam	Pakistan	2005	0
+Viet Nam	Saudi Arabia	2005	0
+Viet Nam	South Korea	2005	0
+Viet Nam	United Arab Emirates	2005	0
+Bangladesh	China	2004	0
+Bangladesh	Hong Kong	2004	0
+Bangladesh	India	2004	0
+Bangladesh	Iran	2004	0
+Bangladesh	Israel	2004	0
+Bangladesh	Japan	2004	0
+Bangladesh	Pakistan	2004	0
+Bangladesh	Saudi Arabia	2004	0
+Bangladesh	South Korea	2004	0
+Bangladesh	United Arab Emirates	2004	0
+Bangladesh	Viet Nam	2004	0
+China	Bangladesh	2004	0
+China	Hong Kong	2004	16698
+China	India	2004	0
+China	Iran	2004	0
+China	Israel	2004	0
+China	Japan	2004	0
+China	Pakistan	2004	0
+China	Saudi Arabia	2004	0
+China	South Korea	2004	0
+China	United Arab Emirates	2004	0
+China	Viet Nam	2004	0
+Hong Kong	Bangladesh	2004	0
+Hong Kong	China	2004	2
+Hong Kong	India	2004	0
+Hong Kong	Iran	2004	0
+Hong Kong	Israel	2004	0
+Hong Kong	Japan	2004	0
+Hong Kong	Pakistan	2004	0
+Hong Kong	Saudi Arabia	2004	0
+Hong Kong	South Korea	2004	0
+Hong Kong	United Arab Emirates	2004	0
+Hong Kong	Viet Nam	2004	0
+India	Bangladesh	2004	0
+India	China	2004	0
+India	Hong Kong	2004	0
+India	Iran	2004	0
+India	Israel	2004	0
+India	Japan	2004	0
+India	Pakistan	2004	0
+India	Saudi Arabia	2004	126
+India	South Korea	2004	0
+India	United Arab Emirates	2004	114
+India	Viet Nam	2004	0
+Iran	Bangladesh	2004	0
+Iran	China	2004	0
+Iran	Hong Kong	2004	0
+Iran	India	2004	0
+Iran	Israel	2004	0
+Iran	Japan	2004	0
+Iran	Pakistan	2004	0
+Iran	Saudi Arabia	2004	0
+Iran	South Korea	2004	0
+Iran	United Arab Emirates	2004	22
+Iran	Viet Nam	2004	0
+Israel	Bangladesh	2004	0
+Israel	China	2004	0
+Israel	Hong Kong	2004	0
+Israel	India	2004	0
+Israel	Iran	2004	0
+Israel	Japan	2004	0
+Israel	Pakistan	2004	0
+Israel	Saudi Arabia	2004	0
+Israel	South Korea	2004	0
+Israel	United Arab Emirates	2004	0
+Israel	Viet Nam	2004	0
+Japan	Bangladesh	2004	0
+Japan	China	2004	0
+Japan	Hong Kong	2004	0
+Japan	India	2004	0
+Japan	Iran	2004	0
+Japan	Israel	2004	0
+Japan	Pakistan	2004	0
+Japan	Saudi Arabia	2004	0
+Japan	South Korea	2004	0
+Japan	United Arab Emirates	2004	0
+Japan	Viet Nam	2004	0
+Pakistan	Bangladesh	2004	0
+Pakistan	China	2004	0
+Pakistan	Hong Kong	2004	0
+Pakistan	India	2004	0
+Pakistan	Iran	2004	0
+Pakistan	Israel	2004	0
+Pakistan	Japan	2004	0
+Pakistan	Saudi Arabia	2004	7
+Pakistan	South Korea	2004	0
+Pakistan	United Arab Emirates	2004	255
+Pakistan	Viet Nam	2004	0
+Saudi Arabia	Bangladesh	2004	0
+Saudi Arabia	China	2004	0
+Saudi Arabia	Hong Kong	2004	0
+Saudi Arabia	India	2004	0
+Saudi Arabia	Iran	2004	0
+Saudi Arabia	Israel	2004	0
+Saudi Arabia	Japan	2004	0
+Saudi Arabia	Pakistan	2004	0
+Saudi Arabia	South Korea	2004	0
+Saudi Arabia	United Arab Emirates	2004	0
+Saudi Arabia	Viet Nam	2004	0
+South Korea	Bangladesh	2004	0
+South Korea	China	2004	0
+South Korea	Hong Kong	2004	0
+South Korea	India	2004	0
+South Korea	Iran	2004	0
+South Korea	Israel	2004	0
+South Korea	Japan	2004	0
+South Korea	Pakistan	2004	0
+South Korea	Saudi Arabia	2004	0
+South Korea	United Arab Emirates	2004	0
+South Korea	Viet Nam	2004	0
+United Arab Emirates	Bangladesh	2004	0
+United Arab Emirates	China	2004	0
+United Arab Emirates	Hong Kong	2004	0
+United Arab Emirates	India	2004	0
+United Arab Emirates	Iran	2004	0
+United Arab Emirates	Israel	2004	0
+United Arab Emirates	Japan	2004	0
+United Arab Emirates	Pakistan	2004	0
+United Arab Emirates	Saudi Arabia	2004	0
+United Arab Emirates	South Korea	2004	0
+United Arab Emirates	Viet Nam	2004	0
+Viet Nam	Bangladesh	2004	0
+Viet Nam	China	2004	0
+Viet Nam	Hong Kong	2004	0
+Viet Nam	India	2004	0
+Viet Nam	Iran	2004	0
+Viet Nam	Israel	2004	0
+Viet Nam	Japan	2004	0
+Viet Nam	Pakistan	2004	0
+Viet Nam	Saudi Arabia	2004	0
+Viet Nam	South Korea	2004	0
+Viet Nam	United Arab Emirates	2004	0
+Bangladesh	China	2003	0
+Bangladesh	Hong Kong	2003	0
+Bangladesh	India	2003	0
+Bangladesh	Iran	2003	0
+Bangladesh	Israel	2003	0
+Bangladesh	Japan	2003	0
+Bangladesh	Pakistan	2003	0
+Bangladesh	Saudi Arabia	2003	0
+Bangladesh	South Korea	2003	0
+Bangladesh	United Arab Emirates	2003	0
+Bangladesh	Viet Nam	2003	0
+China	Bangladesh	2003	0
+China	Hong Kong	2003	35750
+China	India	2003	0
+China	Iran	2003	0
+China	Israel	2003	0
+China	Japan	2003	0
+China	Pakistan	2003	0
+China	Saudi Arabia	2003	0
+China	South Korea	2003	0
+China	United Arab Emirates	2003	0
+China	Viet Nam	2003	0
+Hong Kong	Bangladesh	2003	0
+Hong Kong	China	2003	14
+Hong Kong	India	2003	0
+Hong Kong	Iran	2003	0
+Hong Kong	Israel	2003	0
+Hong Kong	Japan	2003	0
+Hong Kong	Pakistan	2003	0
+Hong Kong	Saudi Arabia	2003	0
+Hong Kong	South Korea	2003	0
+Hong Kong	United Arab Emirates	2003	0
+Hong Kong	Viet Nam	2003	0
+India	Bangladesh	2003	1940
+India	China	2003	0
+India	Hong Kong	2003	0
+India	Iran	2003	0
+India	Israel	2003	0
+India	Japan	2003	50
+India	Pakistan	2003	0
+India	Saudi Arabia	2003	0
+India	South Korea	2003	0
+India	United Arab Emirates	2003	145
+India	Viet Nam	2003	0
+Iran	Bangladesh	2003	0
+Iran	China	2003	0
+Iran	Hong Kong	2003	0
+Iran	India	2003	0
+Iran	Israel	2003	0
+Iran	Japan	2003	0
+Iran	Pakistan	2003	0
+Iran	Saudi Arabia	2003	0
+Iran	South Korea	2003	0
+Iran	United Arab Emirates	2003	29
+Iran	Viet Nam	2003	0
+Israel	Bangladesh	2003	0
+Israel	China	2003	0
+Israel	Hong Kong	2003	0
+Israel	India	2003	0
+Israel	Iran	2003	0
+Israel	Japan	2003	0
+Israel	Pakistan	2003	0
+Israel	Saudi Arabia	2003	0
+Israel	South Korea	2003	0
+Israel	United Arab Emirates	2003	0
+Israel	Viet Nam	2003	0
+Japan	Bangladesh	2003	0
+Japan	China	2003	0
+Japan	Hong Kong	2003	0
+Japan	India	2003	0
+Japan	Iran	2003	0
+Japan	Israel	2003	0
+Japan	Pakistan	2003	0
+Japan	Saudi Arabia	2003	0
+Japan	South Korea	2003	0
+Japan	United Arab Emirates	2003	0
+Japan	Viet Nam	2003	0
+Pakistan	Bangladesh	2003	0
+Pakistan	China	2003	0
+Pakistan	Hong Kong	2003	0
+Pakistan	India	2003	0
+Pakistan	Iran	2003	0
+Pakistan	Israel	2003	0
+Pakistan	Japan	2003	3
+Pakistan	Saudi Arabia	2003	71
+Pakistan	South Korea	2003	0
+Pakistan	United Arab Emirates	2003	831
+Pakistan	Viet Nam	2003	0
+Saudi Arabia	Bangladesh	2003	0
+Saudi Arabia	China	2003	0
+Saudi Arabia	Hong Kong	2003	0
+Saudi Arabia	India	2003	0
+Saudi Arabia	Iran	2003	0
+Saudi Arabia	Israel	2003	0
+Saudi Arabia	Japan	2003	0
+Saudi Arabia	Pakistan	2003	0
+Saudi Arabia	South Korea	2003	0
+Saudi Arabia	United Arab Emirates	2003	0
+Saudi Arabia	Viet Nam	2003	0
+South Korea	Bangladesh	2003	0
+South Korea	China	2003	0
+South Korea	Hong Kong	2003	0
+South Korea	India	2003	0
+South Korea	Iran	2003	0
+South Korea	Israel	2003	0
+South Korea	Japan	2003	0
+South Korea	Pakistan	2003	0
+South Korea	Saudi Arabia	2003	0
+South Korea	United Arab Emirates	2003	0
+South Korea	Viet Nam	2003	23
+United Arab Emirates	Bangladesh	2003	43
+United Arab Emirates	China	2003	0
+United Arab Emirates	Hong Kong	2003	0
+United Arab Emirates	India	2003	1
+United Arab Emirates	Iran	2003	261
+United Arab Emirates	Israel	2003	0
+United Arab Emirates	Japan	2003	0
+United Arab Emirates	Pakistan	2003	0
+United Arab Emirates	Saudi Arabia	2003	83
+United Arab Emirates	South Korea	2003	0
+United Arab Emirates	Viet Nam	2003	0
+Viet Nam	Bangladesh	2003	0
+Viet Nam	China	2003	0
+Viet Nam	Hong Kong	2003	0
+Viet Nam	India	2003	0
+Viet Nam	Iran	2003	0
+Viet Nam	Israel	2003	0
+Viet Nam	Japan	2003	0
+Viet Nam	Pakistan	2003	0
+Viet Nam	Saudi Arabia	2003	0
+Viet Nam	South Korea	2003	0
+Viet Nam	United Arab Emirates	2003	0
+Bangladesh	China	2002	0
+Bangladesh	Hong Kong	2002	0
+Bangladesh	India	2002	0
+Bangladesh	Iran	2002	0
+Bangladesh	Israel	2002	0
+Bangladesh	Japan	2002	0
+Bangladesh	Pakistan	2002	0
+Bangladesh	Saudi Arabia	2002	0
+Bangladesh	South Korea	2002	0
+Bangladesh	United Arab Emirates	2002	0
+Bangladesh	Viet Nam	2002	0
+China	Bangladesh	2002	0
+China	Hong Kong	2002	39392
+China	India	2002	0
+China	Iran	2002	0
+China	Israel	2002	0
+China	Japan	2002	0
+China	Pakistan	2002	0
+China	Saudi Arabia	2002	0
+China	South Korea	2002	0
+China	United Arab Emirates	2002	0
+China	Viet Nam	2002	0
+Hong Kong	Bangladesh	2002	0
+Hong Kong	China	2002	1
+Hong Kong	India	2002	0
+Hong Kong	Iran	2002	0
+Hong Kong	Israel	2002	0
+Hong Kong	Japan	2002	0
+Hong Kong	Pakistan	2002	0
+Hong Kong	Saudi Arabia	2002	0
+Hong Kong	South Korea	2002	0
+Hong Kong	United Arab Emirates	2002	0
+Hong Kong	Viet Nam	2002	0
+India	Bangladesh	2002	3459
+India	China	2002	0
+India	Hong Kong	2002	0
+India	Iran	2002	0
+India	Israel	2002	0
+India	Japan	2002	0
+India	Pakistan	2002	0
+India	Saudi Arabia	2002	0
+India	South Korea	2002	0
+India	United Arab Emirates	2002	98
+India	Viet Nam	2002	0
+Iran	Bangladesh	2002	0
+Iran	China	2002	0
+Iran	Hong Kong	2002	0
+Iran	India	2002	0
+Iran	Israel	2002	0
+Iran	Japan	2002	0
+Iran	Pakistan	2002	0
+Iran	Saudi Arabia	2002	0
+Iran	South Korea	2002	0
+Iran	United Arab Emirates	2002	26
+Iran	Viet Nam	2002	0
+Israel	Bangladesh	2002	0
+Israel	China	2002	0
+Israel	Hong Kong	2002	2
+Israel	India	2002	0
+Israel	Iran	2002	0
+Israel	Japan	2002	0
+Israel	Pakistan	2002	0
+Israel	Saudi Arabia	2002	0
+Israel	South Korea	2002	0
+Israel	United Arab Emirates	2002	0
+Israel	Viet Nam	2002	0
+Japan	Bangladesh	2002	12
+Japan	China	2002	0
+Japan	Hong Kong	2002	0
+Japan	India	2002	0
+Japan	Iran	2002	0
+Japan	Israel	2002	0
+Japan	Pakistan	2002	0
+Japan	Saudi Arabia	2002	0
+Japan	South Korea	2002	0
+Japan	United Arab Emirates	2002	0
+Japan	Viet Nam	2002	0
+Pakistan	Bangladesh	2002	1
+Pakistan	China	2002	0
+Pakistan	Hong Kong	2002	0
+Pakistan	India	2002	0
+Pakistan	Iran	2002	0
+Pakistan	Israel	2002	0
+Pakistan	Japan	2002	0
+Pakistan	Saudi Arabia	2002	30
+Pakistan	South Korea	2002	0
+Pakistan	United Arab Emirates	2002	1091
+Pakistan	Viet Nam	2002	0
+Saudi Arabia	Bangladesh	2002	0
+Saudi Arabia	China	2002	0
+Saudi Arabia	Hong Kong	2002	0
+Saudi Arabia	India	2002	0
+Saudi Arabia	Iran	2002	0
+Saudi Arabia	Israel	2002	0
+Saudi Arabia	Japan	2002	0
+Saudi Arabia	Pakistan	2002	0
+Saudi Arabia	South Korea	2002	0
+Saudi Arabia	United Arab Emirates	2002	0
+Saudi Arabia	Viet Nam	2002	0
+South Korea	Bangladesh	2002	0
+South Korea	China	2002	0
+South Korea	Hong Kong	2002	0
+South Korea	India	2002	0
+South Korea	Iran	2002	0
+South Korea	Israel	2002	0
+South Korea	Japan	2002	9
+South Korea	Pakistan	2002	0
+South Korea	Saudi Arabia	2002	0
+South Korea	United Arab Emirates	2002	0
+South Korea	Viet Nam	2002	16
+United Arab Emirates	Bangladesh	2002	57
+United Arab Emirates	China	2002	0
+United Arab Emirates	Hong Kong	2002	0
+United Arab Emirates	India	2002	0
+United Arab Emirates	Iran	2002	572
+United Arab Emirates	Israel	2002	0
+United Arab Emirates	Japan	2002	0
+United Arab Emirates	Pakistan	2002	0
+United Arab Emirates	Saudi Arabia	2002	0
+United Arab Emirates	South Korea	2002	0
+United Arab Emirates	Viet Nam	2002	0
+Viet Nam	Bangladesh	2002	0
+Viet Nam	China	2002	0
+Viet Nam	Hong Kong	2002	0
+Viet Nam	India	2002	0
+Viet Nam	Iran	2002	0
+Viet Nam	Israel	2002	0
+Viet Nam	Japan	2002	0
+Viet Nam	Pakistan	2002	0
+Viet Nam	Saudi Arabia	2002	0
+Viet Nam	South Korea	2002	0
+Viet Nam	United Arab Emirates	2002	0
+Bangladesh	China	2001	0
+Bangladesh	Hong Kong	2001	0
+Bangladesh	India	2001	0
+Bangladesh	Iran	2001	0
+Bangladesh	Israel	2001	0
+Bangladesh	Japan	2001	0
+Bangladesh	Pakistan	2001	0
+Bangladesh	Saudi Arabia	2001	0
+Bangladesh	South Korea	2001	0
+Bangladesh	United Arab Emirates	2001	0
+Bangladesh	Viet Nam	2001	0
+China	Bangladesh	2001	18
+China	Hong Kong	2001	38379
+China	India	2001	0
+China	Iran	2001	0
+China	Israel	2001	0
+China	Japan	2001	0
+China	Pakistan	2001	0
+China	Saudi Arabia	2001	0
+China	South Korea	2001	0
+China	United Arab Emirates	2001	0
+China	Viet Nam	2001	9
+Hong Kong	Bangladesh	2001	0
+Hong Kong	China	2001	8
+Hong Kong	India	2001	0
+Hong Kong	Iran	2001	0
+Hong Kong	Israel	2001	0
+Hong Kong	Japan	2001	0
+Hong Kong	Pakistan	2001	0
+Hong Kong	Saudi Arabia	2001	0
+Hong Kong	South Korea	2001	0
+Hong Kong	United Arab Emirates	2001	0
+Hong Kong	Viet Nam	2001	0
+India	Bangladesh	2001	2466
+India	China	2001	0
+India	Hong Kong	2001	0
+India	Iran	2001	0
+India	Israel	2001	0
+India	Japan	2001	0
+India	Pakistan	2001	0
+India	Saudi Arabia	2001	0
+India	South Korea	2001	0
+India	United Arab Emirates	2001	16
+India	Viet Nam	2001	0
+Iran	Bangladesh	2001	0
+Iran	China	2001	0
+Iran	Hong Kong	2001	0
+Iran	India	2001	0
+Iran	Israel	2001	0
+Iran	Japan	2001	0
+Iran	Pakistan	2001	0
+Iran	Saudi Arabia	2001	0
+Iran	South Korea	2001	0
+Iran	United Arab Emirates	2001	29
+Iran	Viet Nam	2001	0
+Israel	Bangladesh	2001	0
+Israel	China	2001	0
+Israel	Hong Kong	2001	0
+Israel	India	2001	0
+Israel	Iran	2001	0
+Israel	Japan	2001	0
+Israel	Pakistan	2001	0
+Israel	Saudi Arabia	2001	0
+Israel	South Korea	2001	0
+Israel	United Arab Emirates	2001	0
+Israel	Viet Nam	2001	0
+Japan	Bangladesh	2001	0
+Japan	China	2001	0
+Japan	Hong Kong	2001	0
+Japan	India	2001	0
+Japan	Iran	2001	0
+Japan	Israel	2001	0
+Japan	Pakistan	2001	0
+Japan	Saudi Arabia	2001	0
+Japan	South Korea	2001	0
+Japan	United Arab Emirates	2001	0
+Japan	Viet Nam	2001	0
+Pakistan	Bangladesh	2001	2
+Pakistan	China	2001	0
+Pakistan	Hong Kong	2001	2
+Pakistan	India	2001	0
+Pakistan	Iran	2001	0
+Pakistan	Israel	2001	0
+Pakistan	Japan	2001	0
+Pakistan	Saudi Arabia	2001	68
+Pakistan	South Korea	2001	0
+Pakistan	United Arab Emirates	2001	1569
+Pakistan	Viet Nam	2001	0
+Saudi Arabia	Bangladesh	2001	0
+Saudi Arabia	China	2001	0
+Saudi Arabia	Hong Kong	2001	0
+Saudi Arabia	India	2001	420
+Saudi Arabia	Iran	2001	0
+Saudi Arabia	Israel	2001	0
+Saudi Arabia	Japan	2001	0
+Saudi Arabia	Pakistan	2001	0
+Saudi Arabia	South Korea	2001	0
+Saudi Arabia	United Arab Emirates	2001	345
+Saudi Arabia	Viet Nam	2001	0
+South Korea	Bangladesh	2001	0
+South Korea	China	2001	0
+South Korea	Hong Kong	2001	0
+South Korea	India	2001	0
+South Korea	Iran	2001	0
+South Korea	Israel	2001	0
+South Korea	Japan	2001	0
+South Korea	Pakistan	2001	0
+South Korea	Saudi Arabia	2001	0
+South Korea	United Arab Emirates	2001	0
+South Korea	Viet Nam	2001	0
+United Arab Emirates	Bangladesh	2001	0
+United Arab Emirates	China	2001	0
+United Arab Emirates	Hong Kong	2001	0
+United Arab Emirates	India	2001	0
+United Arab Emirates	Iran	2001	0
+United Arab Emirates	Israel	2001	0
+United Arab Emirates	Japan	2001	0
+United Arab Emirates	Pakistan	2001	0
+United Arab Emirates	Saudi Arabia	2001	0
+United Arab Emirates	South Korea	2001	0
+United Arab Emirates	Viet Nam	2001	0
+Viet Nam	Bangladesh	2001	0
+Viet Nam	China	2001	0
+Viet Nam	Hong Kong	2001	0
+Viet Nam	India	2001	0
+Viet Nam	Iran	2001	0
+Viet Nam	Israel	2001	0
+Viet Nam	Japan	2001	0
+Viet Nam	Pakistan	2001	0
+Viet Nam	Saudi Arabia	2001	0
+Viet Nam	South Korea	2001	0
+Viet Nam	United Arab Emirates	2001	0
+Bangladesh	China	2000	0
+Bangladesh	Hong Kong	2000	0
+Bangladesh	India	2000	0
+Bangladesh	Iran	2000	0
+Bangladesh	Israel	2000	0
+Bangladesh	Japan	2000	0
+Bangladesh	Pakistan	2000	0
+Bangladesh	Saudi Arabia	2000	0
+Bangladesh	South Korea	2000	0
+Bangladesh	United Arab Emirates	2000	0
+Bangladesh	Viet Nam	2000	0
+China	Bangladesh	2000	0
+China	Hong Kong	2000	44672
+China	India	2000	0
+China	Iran	2000	0
+China	Israel	2000	0
+China	Japan	2000	0
+China	Pakistan	2000	0
+China	Saudi Arabia	2000	0
+China	South Korea	2000	0
+China	United Arab Emirates	2000	0
+China	Viet Nam	2000	26
+Hong Kong	Bangladesh	2000	0
+Hong Kong	China	2000	22
+Hong Kong	India	2000	0
+Hong Kong	Iran	2000	0
+Hong Kong	Israel	2000	0
+Hong Kong	Japan	2000	0
+Hong Kong	Pakistan	2000	0
+Hong Kong	Saudi Arabia	2000	0
+Hong Kong	South Korea	2000	0
+Hong Kong	United Arab Emirates	2000	0
+Hong Kong	Viet Nam	2000	0
+India	Bangladesh	2000	3454
+India	China	2000	0
+India	Hong Kong	2000	0
+India	Iran	2000	0
+India	Israel	2000	0
+India	Japan	2000	0
+India	Pakistan	2000	0
+India	Saudi Arabia	2000	0
+India	South Korea	2000	0
+India	United Arab Emirates	2000	0
+India	Viet Nam	2000	0
+Iran	Bangladesh	2000	0
+Iran	China	2000	0
+Iran	Hong Kong	2000	0
+Iran	India	2000	0
+Iran	Israel	2000	0
+Iran	Japan	2000	0
+Iran	Pakistan	2000	0
+Iran	Saudi Arabia	2000	0
+Iran	South Korea	2000	0
+Iran	United Arab Emirates	2000	0
+Iran	Viet Nam	2000	0
+Israel	Bangladesh	2000	0
+Israel	China	2000	0
+Israel	Hong Kong	2000	44
+Israel	India	2000	4
+Israel	Iran	2000	0
+Israel	Japan	2000	26
+Israel	Pakistan	2000	0
+Israel	Saudi Arabia	2000	0
+Israel	South Korea	2000	0
+Israel	United Arab Emirates	2000	0
+Israel	Viet Nam	2000	62
+Japan	Bangladesh	2000	0
+Japan	China	2000	0
+Japan	Hong Kong	2000	0
+Japan	India	2000	0
+Japan	Iran	2000	0
+Japan	Israel	2000	0
+Japan	Pakistan	2000	0
+Japan	Saudi Arabia	2000	0
+Japan	South Korea	2000	0
+Japan	United Arab Emirates	2000	0
+Japan	Viet Nam	2000	0
+Pakistan	Bangladesh	2000	0
+Pakistan	China	2000	0
+Pakistan	Hong Kong	2000	0
+Pakistan	India	2000	0
+Pakistan	Iran	2000	0
+Pakistan	Israel	2000	0
+Pakistan	Japan	2000	2
+Pakistan	Saudi Arabia	2000	85
+Pakistan	South Korea	2000	0
+Pakistan	United Arab Emirates	2000	786
+Pakistan	Viet Nam	2000	0
+Saudi Arabia	Bangladesh	2000	0
+Saudi Arabia	China	2000	0
+Saudi Arabia	Hong Kong	2000	0
+Saudi Arabia	India	2000	0
+Saudi Arabia	Iran	2000	0
+Saudi Arabia	Israel	2000	0
+Saudi Arabia	Japan	2000	0
+Saudi Arabia	Pakistan	2000	0
+Saudi Arabia	South Korea	2000	0
+Saudi Arabia	United Arab Emirates	2000	0
+Saudi Arabia	Viet Nam	2000	0
+South Korea	Bangladesh	2000	0
+South Korea	China	2000	0
+South Korea	Hong Kong	2000	0
+South Korea	India	2000	0
+South Korea	Iran	2000	0
+South Korea	Israel	2000	0
+South Korea	Japan	2000	0
+South Korea	Pakistan	2000	0
+South Korea	Saudi Arabia	2000	0
+South Korea	United Arab Emirates	2000	0
+South Korea	Viet Nam	2000	0
+United Arab Emirates	Bangladesh	2000	0
+United Arab Emirates	China	2000	0
+United Arab Emirates	Hong Kong	2000	0
+United Arab Emirates	India	2000	0
+United Arab Emirates	Iran	2000	0
+United Arab Emirates	Israel	2000	0
+United Arab Emirates	Japan	2000	0
+United Arab Emirates	Pakistan	2000	0
+United Arab Emirates	Saudi Arabia	2000	0
+United Arab Emirates	South Korea	2000	0
+United Arab Emirates	Viet Nam	2000	0
+Viet Nam	Bangladesh	2000	0
+Viet Nam	China	2000	0
+Viet Nam	Hong Kong	2000	0
+Viet Nam	India	2000	0
+Viet Nam	Iran	2000	0
+Viet Nam	Israel	2000	0
+Viet Nam	Japan	2000	0
+Viet Nam	Pakistan	2000	0
+Viet Nam	Saudi Arabia	2000	0
+Viet Nam	South Korea	2000	0
+Viet Nam	United Arab Emirates	2000	0
+Bangladesh	China	1999	0
+Bangladesh	Hong Kong	1999	0
+Bangladesh	India	1999	0
+Bangladesh	Iran	1999	0
+Bangladesh	Israel	1999	0
+Bangladesh	Japan	1999	0
+Bangladesh	Pakistan	1999	0
+Bangladesh	Saudi Arabia	1999	0
+Bangladesh	South Korea	1999	0
+Bangladesh	United Arab Emirates	1999	0
+Bangladesh	Viet Nam	1999	0
+China	Bangladesh	1999	0
+China	Hong Kong	1999	40940
+China	India	1999	0
+China	Iran	1999	0
+China	Israel	1999	0
+China	Japan	1999	0
+China	Pakistan	1999	28
+China	Saudi Arabia	1999	0
+China	South Korea	1999	0
+China	United Arab Emirates	1999	0
+China	Viet Nam	1999	10
+Hong Kong	Bangladesh	1999	0
+Hong Kong	China	1999	28
+Hong Kong	India	1999	0
+Hong Kong	Iran	1999	0
+Hong Kong	Israel	1999	0
+Hong Kong	Japan	1999	0
+Hong Kong	Pakistan	1999	0
+Hong Kong	Saudi Arabia	1999	0
+Hong Kong	South Korea	1999	0
+Hong Kong	United Arab Emirates	1999	0
+Hong Kong	Viet Nam	1999	0
+India	Bangladesh	1999	1588
+India	China	1999	0
+India	Hong Kong	1999	0
+India	Iran	1999	0
+India	Israel	1999	0
+India	Japan	1999	0
+India	Pakistan	1999	0
+India	Saudi Arabia	1999	164
+India	South Korea	1999	512
+India	United Arab Emirates	1999	134
+India	Viet Nam	1999	0
+Iran	Bangladesh	1999	0
+Iran	China	1999	0
+Iran	Hong Kong	1999	0
+Iran	India	1999	0
+Iran	Israel	1999	0
+Iran	Japan	1999	0
+Iran	Pakistan	1999	0
+Iran	Saudi Arabia	1999	0
+Iran	South Korea	1999	0
+Iran	United Arab Emirates	1999	0
+Iran	Viet Nam	1999	0
+Israel	Bangladesh	1999	0
+Israel	China	1999	21
+Israel	Hong Kong	1999	21
+Israel	India	1999	0
+Israel	Iran	1999	0
+Israel	Japan	1999	50
+Israel	Pakistan	1999	0
+Israel	Saudi Arabia	1999	0
+Israel	South Korea	1999	0
+Israel	United Arab Emirates	1999	0
+Israel	Viet Nam	1999	0
+Japan	Bangladesh	1999	0
+Japan	China	1999	0
+Japan	Hong Kong	1999	0
+Japan	India	1999	0
+Japan	Iran	1999	0
+Japan	Israel	1999	0
+Japan	Pakistan	1999	0
+Japan	Saudi Arabia	1999	0
+Japan	South Korea	1999	0
+Japan	United Arab Emirates	1999	0
+Japan	Viet Nam	1999	0
+Pakistan	Bangladesh	1999	12
+Pakistan	China	1999	0
+Pakistan	Hong Kong	1999	0
+Pakistan	India	1999	0
+Pakistan	Iran	1999	0
+Pakistan	Israel	1999	0
+Pakistan	Japan	1999	5
+Pakistan	Saudi Arabia	1999	35
+Pakistan	South Korea	1999	0
+Pakistan	United Arab Emirates	1999	366
+Pakistan	Viet Nam	1999	0
+Saudi Arabia	Bangladesh	1999	0
+Saudi Arabia	China	1999	0
+Saudi Arabia	Hong Kong	1999	0
+Saudi Arabia	India	1999	0
+Saudi Arabia	Iran	1999	0
+Saudi Arabia	Israel	1999	0
+Saudi Arabia	Japan	1999	0
+Saudi Arabia	Pakistan	1999	0
+Saudi Arabia	South Korea	1999	0
+Saudi Arabia	United Arab Emirates	1999	0
+Saudi Arabia	Viet Nam	1999	0
+South Korea	Bangladesh	1999	0
+South Korea	China	1999	0
+South Korea	Hong Kong	1999	0
+South Korea	India	1999	0
+South Korea	Iran	1999	0
+South Korea	Israel	1999	0
+South Korea	Japan	1999	4
+South Korea	Pakistan	1999	0
+South Korea	Saudi Arabia	1999	0
+South Korea	United Arab Emirates	1999	0
+South Korea	Viet Nam	1999	3
+United Arab Emirates	Bangladesh	1999	0
+United Arab Emirates	China	1999	0
+United Arab Emirates	Hong Kong	1999	0
+United Arab Emirates	India	1999	0
+United Arab Emirates	Iran	1999	0
+United Arab Emirates	Israel	1999	0
+United Arab Emirates	Japan	1999	0
+United Arab Emirates	Pakistan	1999	0
+United Arab Emirates	Saudi Arabia	1999	0
+United Arab Emirates	South Korea	1999	0
+United Arab Emirates	Viet Nam	1999	0
+Viet Nam	Bangladesh	1999	0
+Viet Nam	China	1999	0
+Viet Nam	Hong Kong	1999	0
+Viet Nam	India	1999	0
+Viet Nam	Iran	1999	0
+Viet Nam	Israel	1999	0
+Viet Nam	Japan	1999	0
+Viet Nam	Pakistan	1999	0
+Viet Nam	Saudi Arabia	1999	0
+Viet Nam	South Korea	1999	0
+Viet Nam	United Arab Emirates	1999	0
+Bangladesh	China	1998	0
+Bangladesh	Hong Kong	1998	0
+Bangladesh	India	1998	0
+Bangladesh	Iran	1998	0
+Bangladesh	Israel	1998	0
+Bangladesh	Japan	1998	0
+Bangladesh	Pakistan	1998	0
+Bangladesh	Saudi Arabia	1998	0
+Bangladesh	South Korea	1998	0
+Bangladesh	United Arab Emirates	1998	0
+Bangladesh	Viet Nam	1998	0
+China	Bangladesh	1998	0
+China	Hong Kong	1998	38785
+China	India	1998	0
+China	Iran	1998	0
+China	Israel	1998	0
+China	Japan	1998	0
+China	Pakistan	1998	15
+China	Saudi Arabia	1998	0
+China	South Korea	1998	0
+China	United Arab Emirates	1998	0
+China	Viet Nam	1998	0
+Hong Kong	Bangladesh	1998	0
+Hong Kong	China	1998	145
+Hong Kong	India	1998	0
+Hong Kong	Iran	1998	0
+Hong Kong	Israel	1998	0
+Hong Kong	Japan	1998	0
+Hong Kong	Pakistan	1998	0
+Hong Kong	Saudi Arabia	1998	0
+Hong Kong	South Korea	1998	0
+Hong Kong	United Arab Emirates	1998	0
+Hong Kong	Viet Nam	1998	0
+India	Bangladesh	1998	1113
+India	China	1998	0
+India	Hong Kong	1998	0
+India	Iran	1998	0
+India	Israel	1998	0
+India	Japan	1998	0
+India	Pakistan	1998	0
+India	Saudi Arabia	1998	31
+India	South Korea	1998	170
+India	United Arab Emirates	1998	103
+India	Viet Nam	1998	0
+Iran	Bangladesh	1998	0
+Iran	China	1998	0
+Iran	Hong Kong	1998	0
+Iran	India	1998	0
+Iran	Israel	1998	0
+Iran	Japan	1998	0
+Iran	Pakistan	1998	0
+Iran	Saudi Arabia	1998	0
+Iran	South Korea	1998	0
+Iran	United Arab Emirates	1998	1
+Iran	Viet Nam	1998	0
+Israel	Bangladesh	1998	0
+Israel	China	1998	0
+Israel	Hong Kong	1998	0
+Israel	India	1998	0
+Israel	Iran	1998	0
+Israel	Japan	1998	0
+Israel	Pakistan	1998	0
+Israel	Saudi Arabia	1998	0
+Israel	South Korea	1998	0
+Israel	United Arab Emirates	1998	0
+Israel	Viet Nam	1998	0
+Japan	Bangladesh	1998	0
+Japan	China	1998	0
+Japan	Hong Kong	1998	0
+Japan	India	1998	0
+Japan	Iran	1998	0
+Japan	Israel	1998	0
+Japan	Pakistan	1998	0
+Japan	Saudi Arabia	1998	0
+Japan	South Korea	1998	0
+Japan	United Arab Emirates	1998	0
+Japan	Viet Nam	1998	0
+Pakistan	Bangladesh	1998	0
+Pakistan	China	1998	0
+Pakistan	Hong Kong	1998	0
+Pakistan	India	1998	0
+Pakistan	Iran	1998	0
+Pakistan	Israel	1998	0
+Pakistan	Japan	1998	0
+Pakistan	Saudi Arabia	1998	9
+Pakistan	South Korea	1998	0
+Pakistan	United Arab Emirates	1998	383
+Pakistan	Viet Nam	1998	0
+Saudi Arabia	Bangladesh	1998	0
+Saudi Arabia	China	1998	0
+Saudi Arabia	Hong Kong	1998	0
+Saudi Arabia	India	1998	0
+Saudi Arabia	Iran	1998	0
+Saudi Arabia	Israel	1998	0
+Saudi Arabia	Japan	1998	0
+Saudi Arabia	Pakistan	1998	0
+Saudi Arabia	South Korea	1998	0
+Saudi Arabia	United Arab Emirates	1998	808
+Saudi Arabia	Viet Nam	1998	0
+South Korea	Bangladesh	1998	0
+South Korea	China	1998	0
+South Korea	Hong Kong	1998	0
+South Korea	India	1998	0
+South Korea	Iran	1998	0
+South Korea	Israel	1998	0
+South Korea	Japan	1998	14
+South Korea	Pakistan	1998	0
+South Korea	Saudi Arabia	1998	0
+South Korea	United Arab Emirates	1998	0
+South Korea	Viet Nam	1998	0
+United Arab Emirates	Bangladesh	1998	0
+United Arab Emirates	China	1998	0
+United Arab Emirates	Hong Kong	1998	0
+United Arab Emirates	India	1998	0
+United Arab Emirates	Iran	1998	0
+United Arab Emirates	Israel	1998	0
+United Arab Emirates	Japan	1998	0
+United Arab Emirates	Pakistan	1998	0
+United Arab Emirates	Saudi Arabia	1998	0
+United Arab Emirates	South Korea	1998	0
+United Arab Emirates	Viet Nam	1998	0
+Viet Nam	Bangladesh	1998	0
+Viet Nam	China	1998	0
+Viet Nam	Hong Kong	1998	0
+Viet Nam	India	1998	0
+Viet Nam	Iran	1998	0
+Viet Nam	Israel	1998	0
+Viet Nam	Japan	1998	0
+Viet Nam	Pakistan	1998	0
+Viet Nam	Saudi Arabia	1998	0
+Viet Nam	South Korea	1998	0
+Viet Nam	United Arab Emirates	1998	0
+Bangladesh	China	1997	0
+Bangladesh	Hong Kong	1997	0
+Bangladesh	India	1997	0
+Bangladesh	Iran	1997	0
+Bangladesh	Israel	1997	0
+Bangladesh	Japan	1997	0
+Bangladesh	Pakistan	1997	0
+Bangladesh	Saudi Arabia	1997	0
+Bangladesh	South Korea	1997	0
+Bangladesh	United Arab Emirates	1997	0
+Bangladesh	Viet Nam	1997	0
+China	Bangladesh	1997	0
+China	Hong Kong	1997	46353
+China	India	1997	0
+China	Iran	1997	0
+China	Israel	1997	0
+China	Japan	1997	0
+China	Pakistan	1997	0
+China	Saudi Arabia	1997	0
+China	South Korea	1997	0
+China	United Arab Emirates	1997	0
+China	Viet Nam	1997	8
+Hong Kong	Bangladesh	1997	0
+Hong Kong	China	1997	47
+Hong Kong	India	1997	0
+Hong Kong	Iran	1997	0
+Hong Kong	Israel	1997	0
+Hong Kong	Japan	1997	0
+Hong Kong	Pakistan	1997	0
+Hong Kong	Saudi Arabia	1997	0
+Hong Kong	South Korea	1997	0
+Hong Kong	United Arab Emirates	1997	0
+Hong Kong	Viet Nam	1997	0
+India	Bangladesh	1997	739
+India	China	1997	0
+India	Hong Kong	1997	0
+India	Iran	1997	0
+India	Israel	1997	0
+India	Japan	1997	0
+India	Pakistan	1997	0
+India	Saudi Arabia	1997	138
+India	South Korea	1997	0
+India	United Arab Emirates	1997	14
+India	Viet Nam	1997	0
+Iran	Bangladesh	1997	0
+Iran	China	1997	0
+Iran	Hong Kong	1997	0
+Iran	India	1997	0
+Iran	Israel	1997	0
+Iran	Japan	1997	0
+Iran	Pakistan	1997	0
+Iran	Saudi Arabia	1997	0
+Iran	South Korea	1997	0
+Iran	United Arab Emirates	1997	1
+Iran	Viet Nam	1997	0
+Israel	Bangladesh	1997	0
+Israel	China	1997	0
+Israel	Hong Kong	1997	0
+Israel	India	1997	0
+Israel	Iran	1997	0
+Israel	Japan	1997	0
+Israel	Pakistan	1997	0
+Israel	Saudi Arabia	1997	0
+Israel	South Korea	1997	0
+Israel	United Arab Emirates	1997	0
+Israel	Viet Nam	1997	0
+Japan	Bangladesh	1997	0
+Japan	China	1997	0
+Japan	Hong Kong	1997	0
+Japan	India	1997	0
+Japan	Iran	1997	0
+Japan	Israel	1997	0
+Japan	Pakistan	1997	0
+Japan	Saudi Arabia	1997	0
+Japan	South Korea	1997	0
+Japan	United Arab Emirates	1997	0
+Japan	Viet Nam	1997	0
+Pakistan	Bangladesh	1997	0
+Pakistan	China	1997	0
+Pakistan	Hong Kong	1997	0
+Pakistan	India	1997	0
+Pakistan	Iran	1997	0
+Pakistan	Israel	1997	0
+Pakistan	Japan	1997	0
+Pakistan	Saudi Arabia	1997	0
+Pakistan	South Korea	1997	0
+Pakistan	United Arab Emirates	1997	128
+Pakistan	Viet Nam	1997	0
+Saudi Arabia	Bangladesh	1997	0
+Saudi Arabia	China	1997	0
+Saudi Arabia	Hong Kong	1997	0
+Saudi Arabia	India	1997	0
+Saudi Arabia	Iran	1997	0
+Saudi Arabia	Israel	1997	0
+Saudi Arabia	Japan	1997	0
+Saudi Arabia	Pakistan	1997	0
+Saudi Arabia	South Korea	1997	0
+Saudi Arabia	United Arab Emirates	1997	0
+Saudi Arabia	Viet Nam	1997	0
+South Korea	Bangladesh	1997	0
+South Korea	China	1997	0
+South Korea	Hong Kong	1997	0
+South Korea	India	1997	0
+South Korea	Iran	1997	0
+South Korea	Israel	1997	0
+South Korea	Japan	1997	0
+South Korea	Pakistan	1997	0
+South Korea	Saudi Arabia	1997	0
+South Korea	United Arab Emirates	1997	0
+South Korea	Viet Nam	1997	0
+United Arab Emirates	Bangladesh	1997	0
+United Arab Emirates	China	1997	0
+United Arab Emirates	Hong Kong	1997	0
+United Arab Emirates	India	1997	0
+United Arab Emirates	Iran	1997	0
+United Arab Emirates	Israel	1997	0
+United Arab Emirates	Japan	1997	0
+United Arab Emirates	Pakistan	1997	0
+United Arab Emirates	Saudi Arabia	1997	0
+United Arab Emirates	South Korea	1997	0
+United Arab Emirates	Viet Nam	1997	0
+Viet Nam	Bangladesh	1997	0
+Viet Nam	China	1997	0
+Viet Nam	Hong Kong	1997	0
+Viet Nam	India	1997	0
+Viet Nam	Iran	1997	0
+Viet Nam	Israel	1997	0
+Viet Nam	Japan	1997	0
+Viet Nam	Pakistan	1997	0
+Viet Nam	Saudi Arabia	1997	0
+Viet Nam	South Korea	1997	0
+Viet Nam	United Arab Emirates	1997	0
+Bangladesh	China	1996	0
+Bangladesh	Hong Kong	1996	0
+Bangladesh	India	1996	0
+Bangladesh	Iran	1996	0
+Bangladesh	Israel	1996	0
+Bangladesh	Japan	1996	0
+Bangladesh	Pakistan	1996	0
+Bangladesh	Saudi Arabia	1996	0
+Bangladesh	South Korea	1996	0
+Bangladesh	United Arab Emirates	1996	0
+Bangladesh	Viet Nam	1996	0
+China	Bangladesh	1996	8
+China	Hong Kong	1996	46090
+China	India	1996	0
+China	Iran	1996	0
+China	Israel	1996	0
+China	Japan	1996	0
+China	Pakistan	1996	0
+China	Saudi Arabia	1996	0
+China	South Korea	1996	0
+China	United Arab Emirates	1996	0
+China	Viet Nam	1996	0
+Hong Kong	Bangladesh	1996	0
+Hong Kong	China	1996	63
+Hong Kong	India	1996	0
+Hong Kong	Iran	1996	0
+Hong Kong	Israel	1996	0
+Hong Kong	Japan	1996	0
+Hong Kong	Pakistan	1996	0
+Hong Kong	Saudi Arabia	1996	0
+Hong Kong	South Korea	1996	0
+Hong Kong	United Arab Emirates	1996	0
+Hong Kong	Viet Nam	1996	0
+India	Bangladesh	1996	8183
+India	China	1996	0
+India	Hong Kong	1996	0
+India	Iran	1996	17
+India	Israel	1996	0
+India	Japan	1996	0
+India	Pakistan	1996	5
+India	Saudi Arabia	1996	202
+India	South Korea	1996	0
+India	United Arab Emirates	1996	142
+India	Viet Nam	1996	0
+Iran	Bangladesh	1996	0
+Iran	China	1996	0
+Iran	Hong Kong	1996	0
+Iran	India	1996	0
+Iran	Israel	1996	0
+Iran	Japan	1996	0
+Iran	Pakistan	1996	0
+Iran	Saudi Arabia	1996	0
+Iran	South Korea	1996	0
+Iran	United Arab Emirates	1996	0
+Iran	Viet Nam	1996	0
+Israel	Bangladesh	1996	0
+Israel	China	1996	0
+Israel	Hong Kong	1996	0
+Israel	India	1996	0
+Israel	Iran	1996	0
+Israel	Japan	1996	0
+Israel	Pakistan	1996	0
+Israel	Saudi Arabia	1996	0
+Israel	South Korea	1996	0
+Israel	United Arab Emirates	1996	0
+Israel	Viet Nam	1996	0
+Japan	Bangladesh	1996	0
+Japan	China	1996	0
+Japan	Hong Kong	1996	0
+Japan	India	1996	0
+Japan	Iran	1996	0
+Japan	Israel	1996	0
+Japan	Pakistan	1996	0
+Japan	Saudi Arabia	1996	0
+Japan	South Korea	1996	0
+Japan	United Arab Emirates	1996	0
+Japan	Viet Nam	1996	0
+Pakistan	Bangladesh	1996	0
+Pakistan	China	1996	0
+Pakistan	Hong Kong	1996	0
+Pakistan	India	1996	0
+Pakistan	Iran	1996	0
+Pakistan	Israel	1996	0
+Pakistan	Japan	1996	0
+Pakistan	Saudi Arabia	1996	0
+Pakistan	South Korea	1996	0
+Pakistan	United Arab Emirates	1996	0
+Pakistan	Viet Nam	1996	0
+Saudi Arabia	Bangladesh	1996	0
+Saudi Arabia	China	1996	0
+Saudi Arabia	Hong Kong	1996	0
+Saudi Arabia	India	1996	0
+Saudi Arabia	Iran	1996	0
+Saudi Arabia	Israel	1996	0
+Saudi Arabia	Japan	1996	0
+Saudi Arabia	Pakistan	1996	0
+Saudi Arabia	South Korea	1996	0
+Saudi Arabia	United Arab Emirates	1996	0
+Saudi Arabia	Viet Nam	1996	0
+South Korea	Bangladesh	1996	0
+South Korea	China	1996	0
+South Korea	Hong Kong	1996	0
+South Korea	India	1996	0
+South Korea	Iran	1996	0
+South Korea	Israel	1996	0
+South Korea	Japan	1996	16
+South Korea	Pakistan	1996	0
+South Korea	Saudi Arabia	1996	0
+South Korea	United Arab Emirates	1996	0
+South Korea	Viet Nam	1996	0
+United Arab Emirates	Bangladesh	1996	0
+United Arab Emirates	China	1996	0
+United Arab Emirates	Hong Kong	1996	0
+United Arab Emirates	India	1996	0
+United Arab Emirates	Iran	1996	0
+United Arab Emirates	Israel	1996	0
+United Arab Emirates	Japan	1996	0
+United Arab Emirates	Pakistan	1996	0
+United Arab Emirates	Saudi Arabia	1996	0
+United Arab Emirates	South Korea	1996	0
+United Arab Emirates	Viet Nam	1996	0
+Viet Nam	Bangladesh	1996	0
+Viet Nam	China	1996	0
+Viet Nam	Hong Kong	1996	0
+Viet Nam	India	1996	0
+Viet Nam	Iran	1996	0
+Viet Nam	Israel	1996	0
+Viet Nam	Japan	1996	0
+Viet Nam	Pakistan	1996	0
+Viet Nam	Saudi Arabia	1996	0
+Viet Nam	South Korea	1996	0
+Viet Nam	United Arab Emirates	1996	0
+Bangladesh	China	1995	0
+Bangladesh	Hong Kong	1995	0
+Bangladesh	India	1995	0
+Bangladesh	Iran	1995	0
+Bangladesh	Israel	1995	0
+Bangladesh	Japan	1995	0
+Bangladesh	Pakistan	1995	0
+Bangladesh	Saudi Arabia	1995	0
+Bangladesh	South Korea	1995	0
+Bangladesh	United Arab Emirates	1995	0
+Bangladesh	Viet Nam	1995	0
+China	Bangladesh	1995	8
+China	Hong Kong	1995	42107
+China	India	1995	0
+China	Iran	1995	0
+China	Israel	1995	0
+China	Japan	1995	0
+China	Pakistan	1995	0
+China	Saudi Arabia	1995	0
+China	South Korea	1995	0
+China	United Arab Emirates	1995	0
+China	Viet Nam	1995	10
+Hong Kong	Bangladesh	1995	0
+Hong Kong	China	1995	91
+Hong Kong	India	1995	0
+Hong Kong	Iran	1995	0
+Hong Kong	Israel	1995	0
+Hong Kong	Japan	1995	0
+Hong Kong	Pakistan	1995	0
+Hong Kong	Saudi Arabia	1995	0
+Hong Kong	South Korea	1995	0
+Hong Kong	United Arab Emirates	1995	0
+Hong Kong	Viet Nam	1995	0
+India	Bangladesh	1995	8059
+India	China	1995	0
+India	Hong Kong	1995	0
+India	Iran	1995	0
+India	Israel	1995	0
+India	Japan	1995	0
+India	Pakistan	1995	0
+India	Saudi Arabia	1995	89
+India	South Korea	1995	0
+India	United Arab Emirates	1995	435
+India	Viet Nam	1995	0
+Iran	Bangladesh	1995	0
+Iran	China	1995	0
+Iran	Hong Kong	1995	0
+Iran	India	1995	0
+Iran	Israel	1995	0
+Iran	Japan	1995	0
+Iran	Pakistan	1995	0
+Iran	Saudi Arabia	1995	0
+Iran	South Korea	1995	0
+Iran	United Arab Emirates	1995	0
+Iran	Viet Nam	1995	0
+Israel	Bangladesh	1995	0
+Israel	China	1995	0
+Israel	Hong Kong	1995	0
+Israel	India	1995	0
+Israel	Iran	1995	0
+Israel	Japan	1995	0
+Israel	Pakistan	1995	0
+Israel	Saudi Arabia	1995	0
+Israel	South Korea	1995	0
+Israel	United Arab Emirates	1995	0
+Israel	Viet Nam	1995	0
+Japan	Bangladesh	1995	0
+Japan	China	1995	0
+Japan	Hong Kong	1995	0
+Japan	India	1995	0
+Japan	Iran	1995	0
+Japan	Israel	1995	0
+Japan	Pakistan	1995	0
+Japan	Saudi Arabia	1995	0
+Japan	South Korea	1995	0
+Japan	United Arab Emirates	1995	0
+Japan	Viet Nam	1995	0
+Pakistan	Bangladesh	1995	0
+Pakistan	China	1995	0
+Pakistan	Hong Kong	1995	0
+Pakistan	India	1995	0
+Pakistan	Iran	1995	0
+Pakistan	Israel	1995	0
+Pakistan	Japan	1995	0
+Pakistan	Saudi Arabia	1995	0
+Pakistan	South Korea	1995	0
+Pakistan	United Arab Emirates	1995	6
+Pakistan	Viet Nam	1995	0
+Saudi Arabia	Bangladesh	1995	0
+Saudi Arabia	China	1995	0
+Saudi Arabia	Hong Kong	1995	0
+Saudi Arabia	India	1995	0
+Saudi Arabia	Iran	1995	0
+Saudi Arabia	Israel	1995	0
+Saudi Arabia	Japan	1995	0
+Saudi Arabia	Pakistan	1995	0
+Saudi Arabia	South Korea	1995	0
+Saudi Arabia	United Arab Emirates	1995	0
+Saudi Arabia	Viet Nam	1995	0
+South Korea	Bangladesh	1995	0
+South Korea	China	1995	0
+South Korea	Hong Kong	1995	0
+South Korea	India	1995	0
+South Korea	Iran	1995	0
+South Korea	Israel	1995	0
+South Korea	Japan	1995	24
+South Korea	Pakistan	1995	0
+South Korea	Saudi Arabia	1995	0
+South Korea	United Arab Emirates	1995	0
+South Korea	Viet Nam	1995	0
+United Arab Emirates	Bangladesh	1995	0
+United Arab Emirates	China	1995	0
+United Arab Emirates	Hong Kong	1995	0
+United Arab Emirates	India	1995	0
+United Arab Emirates	Iran	1995	0
+United Arab Emirates	Israel	1995	0
+United Arab Emirates	Japan	1995	0
+United Arab Emirates	Pakistan	1995	0
+United Arab Emirates	Saudi Arabia	1995	0
+United Arab Emirates	South Korea	1995	0
+United Arab Emirates	Viet Nam	1995	0
+Viet Nam	Bangladesh	1995	0
+Viet Nam	China	1995	0
+Viet Nam	Hong Kong	1995	0
+Viet Nam	India	1995	0
+Viet Nam	Iran	1995	0
+Viet Nam	Israel	1995	0
+Viet Nam	Japan	1995	0
+Viet Nam	Pakistan	1995	0
+Viet Nam	Saudi Arabia	1995	0
+Viet Nam	South Korea	1995	0
+Viet Nam	United Arab Emirates	1995	0
+Bangladesh	China	1994	0
+Bangladesh	Hong Kong	1994	0
+Bangladesh	India	1994	0
+Bangladesh	Iran	1994	0
+Bangladesh	Israel	1994	0
+Bangladesh	Japan	1994	0
+Bangladesh	Pakistan	1994	0
+Bangladesh	Saudi Arabia	1994	0
+Bangladesh	South Korea	1994	0
+Bangladesh	United Arab Emirates	1994	0
+Bangladesh	Viet Nam	1994	0
+China	Bangladesh	1994	0
+China	Hong Kong	1994	41434
+China	India	1994	0
+China	Iran	1994	0
+China	Israel	1994	0
+China	Japan	1994	0
+China	Pakistan	1994	0
+China	Saudi Arabia	1994	0
+China	South Korea	1994	0
+China	United Arab Emirates	1994	0
+China	Viet Nam	1994	0
+Hong Kong	Bangladesh	1994	0
+Hong Kong	China	1994	218
+Hong Kong	India	1994	0
+Hong Kong	Iran	1994	0
+Hong Kong	Israel	1994	0
+Hong Kong	Japan	1994	0
+Hong Kong	Pakistan	1994	0
+Hong Kong	Saudi Arabia	1994	0
+Hong Kong	South Korea	1994	0
+Hong Kong	United Arab Emirates	1994	0
+Hong Kong	Viet Nam	1994	0
+India	Bangladesh	1994	2342
+India	China	1994	0
+India	Hong Kong	1994	0
+India	Iran	1994	0
+India	Israel	1994	0
+India	Japan	1994	0
+India	Pakistan	1994	0
+India	Saudi Arabia	1994	10
+India	South Korea	1994	0
+India	United Arab Emirates	1994	5
+India	Viet Nam	1994	0
+Iran	Bangladesh	1994	0
+Iran	China	1994	0
+Iran	Hong Kong	1994	0
+Iran	India	1994	0
+Iran	Israel	1994	0
+Iran	Japan	1994	0
+Iran	Pakistan	1994	0
+Iran	Saudi Arabia	1994	0
+Iran	South Korea	1994	0
+Iran	United Arab Emirates	1994	0
+Iran	Viet Nam	1994	0
+Israel	Bangladesh	1994	0
+Israel	China	1994	0
+Israel	Hong Kong	1994	0
+Israel	India	1994	0
+Israel	Iran	1994	0
+Israel	Japan	1994	0
+Israel	Pakistan	1994	0
+Israel	Saudi Arabia	1994	0
+Israel	South Korea	1994	0
+Israel	United Arab Emirates	1994	0
+Israel	Viet Nam	1994	0
+Japan	Bangladesh	1994	0
+Japan	China	1994	0
+Japan	Hong Kong	1994	0
+Japan	India	1994	0
+Japan	Iran	1994	0
+Japan	Israel	1994	0
+Japan	Pakistan	1994	0
+Japan	Saudi Arabia	1994	0
+Japan	South Korea	1994	0
+Japan	United Arab Emirates	1994	0
+Japan	Viet Nam	1994	0
+Pakistan	Bangladesh	1994	0
+Pakistan	China	1994	0
+Pakistan	Hong Kong	1994	0
+Pakistan	India	1994	0
+Pakistan	Iran	1994	0
+Pakistan	Israel	1994	0
+Pakistan	Japan	1994	0
+Pakistan	Saudi Arabia	1994	0
+Pakistan	South Korea	1994	0
+Pakistan	United Arab Emirates	1994	0
+Pakistan	Viet Nam	1994	0
+Saudi Arabia	Bangladesh	1994	0
+Saudi Arabia	China	1994	0
+Saudi Arabia	Hong Kong	1994	0
+Saudi Arabia	India	1994	0
+Saudi Arabia	Iran	1994	0
+Saudi Arabia	Israel	1994	0
+Saudi Arabia	Japan	1994	0
+Saudi Arabia	Pakistan	1994	0
+Saudi Arabia	South Korea	1994	0
+Saudi Arabia	United Arab Emirates	1994	0
+Saudi Arabia	Viet Nam	1994	0
+South Korea	Bangladesh	1994	0
+South Korea	China	1994	0
+South Korea	Hong Kong	1994	0
+South Korea	India	1994	0
+South Korea	Iran	1994	0
+South Korea	Israel	1994	0
+South Korea	Japan	1994	11
+South Korea	Pakistan	1994	0
+South Korea	Saudi Arabia	1994	0
+South Korea	United Arab Emirates	1994	0
+South Korea	Viet Nam	1994	0
+United Arab Emirates	Bangladesh	1994	0
+United Arab Emirates	China	1994	0
+United Arab Emirates	Hong Kong	1994	0
+United Arab Emirates	India	1994	0
+United Arab Emirates	Iran	1994	0
+United Arab Emirates	Israel	1994	0
+United Arab Emirates	Japan	1994	0
+United Arab Emirates	Pakistan	1994	0
+United Arab Emirates	Saudi Arabia	1994	0
+United Arab Emirates	South Korea	1994	0
+United Arab Emirates	Viet Nam	1994	0
+Viet Nam	Bangladesh	1994	0
+Viet Nam	China	1994	0
+Viet Nam	Hong Kong	1994	0
+Viet Nam	India	1994	0
+Viet Nam	Iran	1994	0
+Viet Nam	Israel	1994	0
+Viet Nam	Japan	1994	0
+Viet Nam	Pakistan	1994	0
+Viet Nam	Saudi Arabia	1994	0
+Viet Nam	South Korea	1994	0
+Viet Nam	United Arab Emirates	1994	0
+Bangladesh	China	1993	0
+Bangladesh	Hong Kong	1993	0
+Bangladesh	India	1993	0
+Bangladesh	Iran	1993	0
+Bangladesh	Israel	1993	0
+Bangladesh	Japan	1993	0
+Bangladesh	Pakistan	1993	0
+Bangladesh	Saudi Arabia	1993	0
+Bangladesh	South Korea	1993	0
+Bangladesh	United Arab Emirates	1993	0
+Bangladesh	Viet Nam	1993	0
+China	Bangladesh	1993	0
+China	Hong Kong	1993	40653
+China	India	1993	0
+China	Iran	1993	0
+China	Israel	1993	0
+China	Japan	1993	0
+China	Pakistan	1993	0
+China	Saudi Arabia	1993	0
+China	South Korea	1993	0
+China	United Arab Emirates	1993	0
+China	Viet Nam	1993	0
+Hong Kong	Bangladesh	1993	0
+Hong Kong	China	1993	166
+Hong Kong	India	1993	0
+Hong Kong	Iran	1993	0
+Hong Kong	Israel	1993	0
+Hong Kong	Japan	1993	0
+Hong Kong	Pakistan	1993	0
+Hong Kong	Saudi Arabia	1993	0
+Hong Kong	South Korea	1993	0
+Hong Kong	United Arab Emirates	1993	0
+Hong Kong	Viet Nam	1993	0
+India	Bangladesh	1993	1858
+India	China	1993	0
+India	Hong Kong	1993	0
+India	Iran	1993	0
+India	Israel	1993	0
+India	Japan	1993	0
+India	Pakistan	1993	0
+India	Saudi Arabia	1993	27
+India	South Korea	1993	0
+India	United Arab Emirates	1993	64
+India	Viet Nam	1993	0
+Iran	Bangladesh	1993	0
+Iran	China	1993	0
+Iran	Hong Kong	1993	0
+Iran	India	1993	0
+Iran	Israel	1993	0
+Iran	Japan	1993	0
+Iran	Pakistan	1993	0
+Iran	Saudi Arabia	1993	0
+Iran	South Korea	1993	0
+Iran	United Arab Emirates	1993	0
+Iran	Viet Nam	1993	0
+Israel	Bangladesh	1993	0
+Israel	China	1993	0
+Israel	Hong Kong	1993	0
+Israel	India	1993	0
+Israel	Iran	1993	0
+Israel	Japan	1993	0
+Israel	Pakistan	1993	0
+Israel	Saudi Arabia	1993	0
+Israel	South Korea	1993	0
+Israel	United Arab Emirates	1993	0
+Israel	Viet Nam	1993	0
+Japan	Bangladesh	1993	0
+Japan	China	1993	0
+Japan	Hong Kong	1993	0
+Japan	India	1993	0
+Japan	Iran	1993	0
+Japan	Israel	1993	0
+Japan	Pakistan	1993	0
+Japan	Saudi Arabia	1993	0
+Japan	South Korea	1993	0
+Japan	United Arab Emirates	1993	0
+Japan	Viet Nam	1993	0
+Pakistan	Bangladesh	1993	3
+Pakistan	China	1993	0
+Pakistan	Hong Kong	1993	0
+Pakistan	India	1993	0
+Pakistan	Iran	1993	0
+Pakistan	Israel	1993	0
+Pakistan	Japan	1993	0
+Pakistan	Saudi Arabia	1993	2
+Pakistan	South Korea	1993	0
+Pakistan	United Arab Emirates	1993	98
+Pakistan	Viet Nam	1993	0
+Saudi Arabia	Bangladesh	1993	0
+Saudi Arabia	China	1993	0
+Saudi Arabia	Hong Kong	1993	0
+Saudi Arabia	India	1993	0
+Saudi Arabia	Iran	1993	0
+Saudi Arabia	Israel	1993	0
+Saudi Arabia	Japan	1993	0
+Saudi Arabia	Pakistan	1993	0
+Saudi Arabia	South Korea	1993	0
+Saudi Arabia	United Arab Emirates	1993	0
+Saudi Arabia	Viet Nam	1993	0
+South Korea	Bangladesh	1993	0
+South Korea	China	1993	0
+South Korea	Hong Kong	1993	0
+South Korea	India	1993	0
+South Korea	Iran	1993	0
+South Korea	Israel	1993	0
+South Korea	Japan	1993	23
+South Korea	Pakistan	1993	0
+South Korea	Saudi Arabia	1993	0
+South Korea	United Arab Emirates	1993	0
+South Korea	Viet Nam	1993	6
+United Arab Emirates	Bangladesh	1993	0
+United Arab Emirates	China	1993	0
+United Arab Emirates	Hong Kong	1993	0
+United Arab Emirates	India	1993	0
+United Arab Emirates	Iran	1993	0
+United Arab Emirates	Israel	1993	0
+United Arab Emirates	Japan	1993	0
+United Arab Emirates	Pakistan	1993	0
+United Arab Emirates	Saudi Arabia	1993	0
+United Arab Emirates	South Korea	1993	0
+United Arab Emirates	Viet Nam	1993	0
+Viet Nam	Bangladesh	1993	0
+Viet Nam	China	1993	0
+Viet Nam	Hong Kong	1993	0
+Viet Nam	India	1993	0
+Viet Nam	Iran	1993	0
+Viet Nam	Israel	1993	0
+Viet Nam	Japan	1993	0
+Viet Nam	Pakistan	1993	0
+Viet Nam	Saudi Arabia	1993	0
+Viet Nam	South Korea	1993	0
+Viet Nam	United Arab Emirates	1993	0
+Bangladesh	China	1992	0
+Bangladesh	Hong Kong	1992	0
+Bangladesh	India	1992	0
+Bangladesh	Iran	1992	0
+Bangladesh	Israel	1992	0
+Bangladesh	Japan	1992	0
+Bangladesh	Pakistan	1992	0
+Bangladesh	Saudi Arabia	1992	0
+Bangladesh	South Korea	1992	0
+Bangladesh	United Arab Emirates	1992	0
+Bangladesh	Viet Nam	1992	0
+China	Bangladesh	1992	0
+China	Hong Kong	1992	45159
+China	India	1992	0
+China	Iran	1992	0
+China	Israel	1992	0
+China	Japan	1992	0
+China	Pakistan	1992	0
+China	Saudi Arabia	1992	0
+China	South Korea	1992	0
+China	United Arab Emirates	1992	0
+China	Viet Nam	1992	0
+Hong Kong	Bangladesh	1992	0
+Hong Kong	China	1992	712
+Hong Kong	India	1992	0
+Hong Kong	Iran	1992	0
+Hong Kong	Israel	1992	0
+Hong Kong	Japan	1992	0
+Hong Kong	Pakistan	1992	0
+Hong Kong	Saudi Arabia	1992	0
+Hong Kong	South Korea	1992	0
+Hong Kong	United Arab Emirates	1992	0
+Hong Kong	Viet Nam	1992	0
+India	Bangladesh	1992	792
+India	China	1992	0
+India	Hong Kong	1992	0
+India	Iran	1992	0
+India	Israel	1992	0
+India	Japan	1992	0
+India	Pakistan	1992	0
+India	Saudi Arabia	1992	158
+India	South Korea	1992	0
+India	United Arab Emirates	1992	457
+India	Viet Nam	1992	0
+Iran	Bangladesh	1992	0
+Iran	China	1992	0
+Iran	Hong Kong	1992	0
+Iran	India	1992	0
+Iran	Israel	1992	0
+Iran	Japan	1992	0
+Iran	Pakistan	1992	0
+Iran	Saudi Arabia	1992	0
+Iran	South Korea	1992	0
+Iran	United Arab Emirates	1992	0
+Iran	Viet Nam	1992	0
+Israel	Bangladesh	1992	0
+Israel	China	1992	0
+Israel	Hong Kong	1992	0
+Israel	India	1992	0
+Israel	Iran	1992	0
+Israel	Japan	1992	0
+Israel	Pakistan	1992	0
+Israel	Saudi Arabia	1992	0
+Israel	South Korea	1992	0
+Israel	United Arab Emirates	1992	0
+Israel	Viet Nam	1992	0
+Japan	Bangladesh	1992	0
+Japan	China	1992	0
+Japan	Hong Kong	1992	0
+Japan	India	1992	0
+Japan	Iran	1992	0
+Japan	Israel	1992	0
+Japan	Pakistan	1992	0
+Japan	Saudi Arabia	1992	0
+Japan	South Korea	1992	0
+Japan	United Arab Emirates	1992	0
+Japan	Viet Nam	1992	0
+Pakistan	Bangladesh	1992	8
+Pakistan	China	1992	0
+Pakistan	Hong Kong	1992	0
+Pakistan	India	1992	0
+Pakistan	Iran	1992	0
+Pakistan	Israel	1992	0
+Pakistan	Japan	1992	3
+Pakistan	Saudi Arabia	1992	7
+Pakistan	South Korea	1992	0
+Pakistan	United Arab Emirates	1992	120
+Pakistan	Viet Nam	1992	0
+Saudi Arabia	Bangladesh	1992	0
+Saudi Arabia	China	1992	0
+Saudi Arabia	Hong Kong	1992	0
+Saudi Arabia	India	1992	0
+Saudi Arabia	Iran	1992	0
+Saudi Arabia	Israel	1992	0
+Saudi Arabia	Japan	1992	0
+Saudi Arabia	Pakistan	1992	0
+Saudi Arabia	South Korea	1992	0
+Saudi Arabia	United Arab Emirates	1992	0
+Saudi Arabia	Viet Nam	1992	0
+South Korea	Bangladesh	1992	0
+South Korea	China	1992	0
+South Korea	Hong Kong	1992	0
+South Korea	India	1992	0
+South Korea	Iran	1992	0
+South Korea	Israel	1992	0
+South Korea	Japan	1992	8
+South Korea	Pakistan	1992	0
+South Korea	Saudi Arabia	1992	0
+South Korea	United Arab Emirates	1992	0
+South Korea	Viet Nam	1992	0
+United Arab Emirates	Bangladesh	1992	0
+United Arab Emirates	China	1992	0
+United Arab Emirates	Hong Kong	1992	0
+United Arab Emirates	India	1992	0
+United Arab Emirates	Iran	1992	0
+United Arab Emirates	Israel	1992	0
+United Arab Emirates	Japan	1992	0
+United Arab Emirates	Pakistan	1992	0
+United Arab Emirates	Saudi Arabia	1992	0
+United Arab Emirates	South Korea	1992	0
+United Arab Emirates	Viet Nam	1992	0
+Viet Nam	Bangladesh	1992	0
+Viet Nam	China	1992	0
+Viet Nam	Hong Kong	1992	0
+Viet Nam	India	1992	0
+Viet Nam	Iran	1992	0
+Viet Nam	Israel	1992	0
+Viet Nam	Japan	1992	0
+Viet Nam	Pakistan	1992	0
+Viet Nam	Saudi Arabia	1992	0
+Viet Nam	South Korea	1992	0
+Viet Nam	United Arab Emirates	1992	0
+Bangladesh	China	1991	0
+Bangladesh	Hong Kong	1991	0
+Bangladesh	India	1991	0
+Bangladesh	Iran	1991	0
+Bangladesh	Israel	1991	0
+Bangladesh	Japan	1991	0
+Bangladesh	Pakistan	1991	0
+Bangladesh	Saudi Arabia	1991	0
+Bangladesh	South Korea	1991	0
+Bangladesh	United Arab Emirates	1991	0
+Bangladesh	Viet Nam	1991	0
+China	Bangladesh	1991	0
+China	Hong Kong	1991	41709
+China	India	1991	0
+China	Iran	1991	0
+China	Israel	1991	0
+China	Japan	1991	13
+China	Pakistan	1991	0
+China	Saudi Arabia	1991	0
+China	South Korea	1991	0
+China	United Arab Emirates	1991	0
+China	Viet Nam	1991	0
+Hong Kong	Bangladesh	1991	0
+Hong Kong	China	1991	417
+Hong Kong	India	1991	0
+Hong Kong	Iran	1991	0
+Hong Kong	Israel	1991	0
+Hong Kong	Japan	1991	0
+Hong Kong	Pakistan	1991	0
+Hong Kong	Saudi Arabia	1991	0
+Hong Kong	South Korea	1991	0
+Hong Kong	United Arab Emirates	1991	0
+Hong Kong	Viet Nam	1991	0
+India	Bangladesh	1991	618
+India	China	1991	0
+India	Hong Kong	1991	0
+India	Iran	1991	0
+India	Israel	1991	0
+India	Japan	1991	0
+India	Pakistan	1991	0
+India	Saudi Arabia	1991	28
+India	South Korea	1991	0
+India	United Arab Emirates	1991	221
+India	Viet Nam	1991	0
+Iran	Bangladesh	1991	0
+Iran	China	1991	0
+Iran	Hong Kong	1991	0
+Iran	India	1991	0
+Iran	Israel	1991	0
+Iran	Japan	1991	0
+Iran	Pakistan	1991	0
+Iran	Saudi Arabia	1991	0
+Iran	South Korea	1991	0
+Iran	United Arab Emirates	1991	0
+Iran	Viet Nam	1991	0
+Israel	Bangladesh	1991	0
+Israel	China	1991	0
+Israel	Hong Kong	1991	0
+Israel	India	1991	0
+Israel	Iran	1991	0
+Israel	Japan	1991	0
+Israel	Pakistan	1991	0
+Israel	Saudi Arabia	1991	0
+Israel	South Korea	1991	0
+Israel	United Arab Emirates	1991	0
+Israel	Viet Nam	1991	0
+Japan	Bangladesh	1991	0
+Japan	China	1991	0
+Japan	Hong Kong	1991	2
+Japan	India	1991	0
+Japan	Iran	1991	0
+Japan	Israel	1991	0
+Japan	Pakistan	1991	0
+Japan	Saudi Arabia	1991	0
+Japan	South Korea	1991	0
+Japan	United Arab Emirates	1991	0
+Japan	Viet Nam	1991	0
+Pakistan	Bangladesh	1991	18
+Pakistan	China	1991	0
+Pakistan	Hong Kong	1991	0
+Pakistan	India	1991	0
+Pakistan	Iran	1991	0
+Pakistan	Israel	1991	0
+Pakistan	Japan	1991	0
+Pakistan	Saudi Arabia	1991	5
+Pakistan	South Korea	1991	0
+Pakistan	United Arab Emirates	1991	117
+Pakistan	Viet Nam	1991	0
+Saudi Arabia	Bangladesh	1991	0
+Saudi Arabia	China	1991	0
+Saudi Arabia	Hong Kong	1991	0
+Saudi Arabia	India	1991	0
+Saudi Arabia	Iran	1991	0
+Saudi Arabia	Israel	1991	0
+Saudi Arabia	Japan	1991	0
+Saudi Arabia	Pakistan	1991	0
+Saudi Arabia	South Korea	1991	0
+Saudi Arabia	United Arab Emirates	1991	0
+Saudi Arabia	Viet Nam	1991	0
+South Korea	Bangladesh	1991	0
+South Korea	China	1991	0
+South Korea	Hong Kong	1991	0
+South Korea	India	1991	0
+South Korea	Iran	1991	0
+South Korea	Israel	1991	0
+South Korea	Japan	1991	0
+South Korea	Pakistan	1991	0
+South Korea	Saudi Arabia	1991	0
+South Korea	United Arab Emirates	1991	0
+South Korea	Viet Nam	1991	0
+United Arab Emirates	Bangladesh	1991	0
+United Arab Emirates	China	1991	0
+United Arab Emirates	Hong Kong	1991	0
+United Arab Emirates	India	1991	0
+United Arab Emirates	Iran	1991	0
+United Arab Emirates	Israel	1991	0
+United Arab Emirates	Japan	1991	0
+United Arab Emirates	Pakistan	1991	0
+United Arab Emirates	Saudi Arabia	1991	0
+United Arab Emirates	South Korea	1991	0
+United Arab Emirates	Viet Nam	1991	0
+Viet Nam	Bangladesh	1991	0
+Viet Nam	China	1991	0
+Viet Nam	Hong Kong	1991	0
+Viet Nam	India	1991	0
+Viet Nam	Iran	1991	0
+Viet Nam	Israel	1991	0
+Viet Nam	Japan	1991	0
+Viet Nam	Pakistan	1991	0
+Viet Nam	Saudi Arabia	1991	0
+Viet Nam	South Korea	1991	0
+Viet Nam	United Arab Emirates	1991	0
+Bangladesh	China	1990	0
+Bangladesh	Hong Kong	1990	0
+Bangladesh	India	1990	0
+Bangladesh	Iran	1990	0
+Bangladesh	Israel	1990	0
+Bangladesh	Japan	1990	0
+Bangladesh	Pakistan	1990	0
+Bangladesh	Saudi Arabia	1990	0
+Bangladesh	South Korea	1990	0
+Bangladesh	United Arab Emirates	1990	0
+Bangladesh	Viet Nam	1990	0
+China	Bangladesh	1990	2
+China	Hong Kong	1990	42540
+China	India	1990	0
+China	Iran	1990	0
+China	Israel	1990	0
+China	Japan	1990	0
+China	Pakistan	1990	0
+China	Saudi Arabia	1990	0
+China	South Korea	1990	0
+China	United Arab Emirates	1990	0
+China	Viet Nam	1990	0
+Hong Kong	Bangladesh	1990	0
+Hong Kong	China	1990	321
+Hong Kong	India	1990	0
+Hong Kong	Iran	1990	0
+Hong Kong	Israel	1990	0
+Hong Kong	Japan	1990	0
+Hong Kong	Pakistan	1990	0
+Hong Kong	Saudi Arabia	1990	0
+Hong Kong	South Korea	1990	0
+Hong Kong	United Arab Emirates	1990	0
+Hong Kong	Viet Nam	1990	0
+India	Bangladesh	1990	176
+India	China	1990	0
+India	Hong Kong	1990	0
+India	Iran	1990	0
+India	Israel	1990	0
+India	Japan	1990	0
+India	Pakistan	1990	0
+India	Saudi Arabia	1990	70
+India	South Korea	1990	0
+India	United Arab Emirates	1990	117
+India	Viet Nam	1990	0
+Iran	Bangladesh	1990	0
+Iran	China	1990	0
+Iran	Hong Kong	1990	0
+Iran	India	1990	0
+Iran	Israel	1990	0
+Iran	Japan	1990	0
+Iran	Pakistan	1990	0
+Iran	Saudi Arabia	1990	0
+Iran	South Korea	1990	0
+Iran	United Arab Emirates	1990	0
+Iran	Viet Nam	1990	0
+Israel	Bangladesh	1990	0
+Israel	China	1990	0
+Israel	Hong Kong	1990	0
+Israel	India	1990	0
+Israel	Iran	1990	0
+Israel	Japan	1990	0
+Israel	Pakistan	1990	0
+Israel	Saudi Arabia	1990	0
+Israel	South Korea	1990	0
+Israel	United Arab Emirates	1990	0
+Israel	Viet Nam	1990	0
+Japan	Bangladesh	1990	0
+Japan	China	1990	0
+Japan	Hong Kong	1990	0
+Japan	India	1990	0
+Japan	Iran	1990	0
+Japan	Israel	1990	0
+Japan	Pakistan	1990	0
+Japan	Saudi Arabia	1990	0
+Japan	South Korea	1990	54
+Japan	United Arab Emirates	1990	0
+Japan	Viet Nam	1990	0
+Pakistan	Bangladesh	1990	6
+Pakistan	China	1990	0
+Pakistan	Hong Kong	1990	0
+Pakistan	India	1990	0
+Pakistan	Iran	1990	0
+Pakistan	Israel	1990	0
+Pakistan	Japan	1990	0
+Pakistan	Saudi Arabia	1990	2
+Pakistan	South Korea	1990	0
+Pakistan	United Arab Emirates	1990	136
+Pakistan	Viet Nam	1990	0
+Saudi Arabia	Bangladesh	1990	0
+Saudi Arabia	China	1990	0
+Saudi Arabia	Hong Kong	1990	0
+Saudi Arabia	India	1990	0
+Saudi Arabia	Iran	1990	0
+Saudi Arabia	Israel	1990	0
+Saudi Arabia	Japan	1990	0
+Saudi Arabia	Pakistan	1990	0
+Saudi Arabia	South Korea	1990	0
+Saudi Arabia	United Arab Emirates	1990	0
+Saudi Arabia	Viet Nam	1990	0
+South Korea	Bangladesh	1990	0
+South Korea	China	1990	0
+South Korea	Hong Kong	1990	0
+South Korea	India	1990	0
+South Korea	Iran	1990	0
+South Korea	Israel	1990	0
+South Korea	Japan	1990	0
+South Korea	Pakistan	1990	0
+South Korea	Saudi Arabia	1990	0
+South Korea	United Arab Emirates	1990	0
+South Korea	Viet Nam	1990	0
+United Arab Emirates	Bangladesh	1990	0
+United Arab Emirates	China	1990	0
+United Arab Emirates	Hong Kong	1990	0
+United Arab Emirates	India	1990	0
+United Arab Emirates	Iran	1990	0
+United Arab Emirates	Israel	1990	0
+United Arab Emirates	Japan	1990	0
+United Arab Emirates	Pakistan	1990	0
+United Arab Emirates	Saudi Arabia	1990	0
+United Arab Emirates	South Korea	1990	0
+United Arab Emirates	Viet Nam	1990	0
+Viet Nam	Bangladesh	1990	0
+Viet Nam	China	1990	0
+Viet Nam	Hong Kong	1990	0
+Viet Nam	India	1990	0
+Viet Nam	Iran	1990	0
+Viet Nam	Israel	1990	0
+Viet Nam	Japan	1990	0
+Viet Nam	Pakistan	1990	0
+Viet Nam	Saudi Arabia	1990	0
+Viet Nam	South Korea	1990	0
+Viet Nam	United Arab Emirates	1990	0
+Bangladesh	China	1989	0
+Bangladesh	Hong Kong	1989	0
+Bangladesh	India	1989	0
+Bangladesh	Iran	1989	0
+Bangladesh	Israel	1989	0
+Bangladesh	Japan	1989	0
+Bangladesh	Pakistan	1989	0
+Bangladesh	Saudi Arabia	1989	0
+Bangladesh	South Korea	1989	0
+Bangladesh	United Arab Emirates	1989	0
+Bangladesh	Viet Nam	1989	0
+China	Bangladesh	1989	0
+China	Hong Kong	1989	39573
+China	India	1989	0
+China	Iran	1989	0
+China	Israel	1989	0
+China	Japan	1989	1
+China	Pakistan	1989	0
+China	Saudi Arabia	1989	0
+China	South Korea	1989	0
+China	United Arab Emirates	1989	0
+China	Viet Nam	1989	0
+Hong Kong	Bangladesh	1989	0
+Hong Kong	China	1989	146
+Hong Kong	India	1989	0
+Hong Kong	Iran	1989	0
+Hong Kong	Israel	1989	0
+Hong Kong	Japan	1989	0
+Hong Kong	Pakistan	1989	0
+Hong Kong	Saudi Arabia	1989	0
+Hong Kong	South Korea	1989	0
+Hong Kong	United Arab Emirates	1989	0
+Hong Kong	Viet Nam	1989	0
+India	Bangladesh	1989	216
+India	China	1989	0
+India	Hong Kong	1989	0
+India	Iran	1989	0
+India	Israel	1989	0
+India	Japan	1989	0
+India	Pakistan	1989	0
+India	Saudi Arabia	1989	66
+India	South Korea	1989	0
+India	United Arab Emirates	1989	67
+India	Viet Nam	1989	0
+Iran	Bangladesh	1989	0
+Iran	China	1989	0
+Iran	Hong Kong	1989	0
+Iran	India	1989	0
+Iran	Israel	1989	0
+Iran	Japan	1989	0
+Iran	Pakistan	1989	0
+Iran	Saudi Arabia	1989	0
+Iran	South Korea	1989	0
+Iran	United Arab Emirates	1989	0
+Iran	Viet Nam	1989	0
+Israel	Bangladesh	1989	0
+Israel	China	1989	0
+Israel	Hong Kong	1989	38
+Israel	India	1989	100
+Israel	Iran	1989	0
+Israel	Japan	1989	0
+Israel	Pakistan	1989	0
+Israel	Saudi Arabia	1989	0
+Israel	South Korea	1989	0
+Israel	United Arab Emirates	1989	0
+Israel	Viet Nam	1989	0
+Japan	Bangladesh	1989	0
+Japan	China	1989	1
+Japan	Hong Kong	1989	7
+Japan	India	1989	0
+Japan	Iran	1989	0
+Japan	Israel	1989	0
+Japan	Pakistan	1989	0
+Japan	Saudi Arabia	1989	0
+Japan	South Korea	1989	35
+Japan	United Arab Emirates	1989	0
+Japan	Viet Nam	1989	0
+Pakistan	Bangladesh	1989	9
+Pakistan	China	1989	0
+Pakistan	Hong Kong	1989	0
+Pakistan	India	1989	0
+Pakistan	Iran	1989	0
+Pakistan	Israel	1989	0
+Pakistan	Japan	1989	0
+Pakistan	Saudi Arabia	1989	4
+Pakistan	South Korea	1989	0
+Pakistan	United Arab Emirates	1989	5
+Pakistan	Viet Nam	1989	0
+Saudi Arabia	Bangladesh	1989	0
+Saudi Arabia	China	1989	0
+Saudi Arabia	Hong Kong	1989	0
+Saudi Arabia	India	1989	0
+Saudi Arabia	Iran	1989	0
+Saudi Arabia	Israel	1989	0
+Saudi Arabia	Japan	1989	0
+Saudi Arabia	Pakistan	1989	0
+Saudi Arabia	South Korea	1989	0
+Saudi Arabia	United Arab Emirates	1989	0
+Saudi Arabia	Viet Nam	1989	0
+South Korea	Bangladesh	1989	0
+South Korea	China	1989	0
+South Korea	Hong Kong	1989	0
+South Korea	India	1989	0
+South Korea	Iran	1989	0
+South Korea	Israel	1989	0
+South Korea	Japan	1989	27
+South Korea	Pakistan	1989	0
+South Korea	Saudi Arabia	1989	0
+South Korea	United Arab Emirates	1989	0
+South Korea	Viet Nam	1989	0
+United Arab Emirates	Bangladesh	1989	0
+United Arab Emirates	China	1989	0
+United Arab Emirates	Hong Kong	1989	0
+United Arab Emirates	India	1989	0
+United Arab Emirates	Iran	1989	0
+United Arab Emirates	Israel	1989	0
+United Arab Emirates	Japan	1989	0
+United Arab Emirates	Pakistan	1989	0
+United Arab Emirates	Saudi Arabia	1989	0
+United Arab Emirates	South Korea	1989	0
+United Arab Emirates	Viet Nam	1989	0
+Viet Nam	Bangladesh	1989	0
+Viet Nam	China	1989	0
+Viet Nam	Hong Kong	1989	0
+Viet Nam	India	1989	0
+Viet Nam	Iran	1989	0
+Viet Nam	Israel	1989	0
+Viet Nam	Japan	1989	0
+Viet Nam	Pakistan	1989	0
+Viet Nam	Saudi Arabia	1989	0
+Viet Nam	South Korea	1989	0
+Viet Nam	United Arab Emirates	1989	0
+Bangladesh	China	1988	0
+Bangladesh	Hong Kong	1988	0
+Bangladesh	India	1988	0
+Bangladesh	Iran	1988	0
+Bangladesh	Israel	1988	0
+Bangladesh	Japan	1988	0
+Bangladesh	Pakistan	1988	0
+Bangladesh	Saudi Arabia	1988	0
+Bangladesh	South Korea	1988	0
+Bangladesh	United Arab Emirates	1988	0
+Bangladesh	Viet Nam	1988	0
+China	Bangladesh	1988	0
+China	Hong Kong	1988	38515
+China	India	1988	0
+China	Iran	1988	0
+China	Israel	1988	0
+China	Japan	1988	0
+China	Pakistan	1988	0
+China	Saudi Arabia	1988	0
+China	South Korea	1988	0
+China	United Arab Emirates	1988	0
+China	Viet Nam	1988	0
+Hong Kong	Bangladesh	1988	0
+Hong Kong	China	1988	295
+Hong Kong	India	1988	0
+Hong Kong	Iran	1988	0
+Hong Kong	Israel	1988	0
+Hong Kong	Japan	1988	0
+Hong Kong	Pakistan	1988	0
+Hong Kong	Saudi Arabia	1988	0
+Hong Kong	South Korea	1988	0
+Hong Kong	United Arab Emirates	1988	0
+Hong Kong	Viet Nam	1988	0
+India	Bangladesh	1988	68
+India	China	1988	0
+India	Hong Kong	1988	0
+India	Iran	1988	0
+India	Israel	1988	0
+India	Japan	1988	0
+India	Pakistan	1988	0
+India	Saudi Arabia	1988	69
+India	South Korea	1988	0
+India	United Arab Emirates	1988	92
+India	Viet Nam	1988	0
+Iran	Bangladesh	1988	0
+Iran	China	1988	0
+Iran	Hong Kong	1988	0
+Iran	India	1988	0
+Iran	Israel	1988	0
+Iran	Japan	1988	0
+Iran	Pakistan	1988	0
+Iran	Saudi Arabia	1988	0
+Iran	South Korea	1988	0
+Iran	United Arab Emirates	1988	0
+Iran	Viet Nam	1988	0
+Israel	Bangladesh	1988	0
+Israel	China	1988	0
+Israel	Hong Kong	1988	0
+Israel	India	1988	0
+Israel	Iran	1988	0
+Israel	Japan	1988	0
+Israel	Pakistan	1988	0
+Israel	Saudi Arabia	1988	0
+Israel	South Korea	1988	0
+Israel	United Arab Emirates	1988	0
+Israel	Viet Nam	1988	0
+Japan	Bangladesh	1988	0
+Japan	China	1988	0
+Japan	Hong Kong	1988	0
+Japan	India	1988	0
+Japan	Iran	1988	0
+Japan	Israel	1988	0
+Japan	Pakistan	1988	0
+Japan	Saudi Arabia	1988	0
+Japan	South Korea	1988	0
+Japan	United Arab Emirates	1988	0
+Japan	Viet Nam	1988	0
+Pakistan	Bangladesh	1988	0
+Pakistan	China	1988	0
+Pakistan	Hong Kong	1988	0
+Pakistan	India	1988	0
+Pakistan	Iran	1988	0
+Pakistan	Israel	1988	0
+Pakistan	Japan	1988	0
+Pakistan	Saudi Arabia	1988	0
+Pakistan	South Korea	1988	0
+Pakistan	United Arab Emirates	1988	0
+Pakistan	Viet Nam	1988	0
+Saudi Arabia	Bangladesh	1988	0
+Saudi Arabia	China	1988	0
+Saudi Arabia	Hong Kong	1988	0
+Saudi Arabia	India	1988	0
+Saudi Arabia	Iran	1988	0
+Saudi Arabia	Israel	1988	0
+Saudi Arabia	Japan	1988	0
+Saudi Arabia	Pakistan	1988	0
+Saudi Arabia	South Korea	1988	0
+Saudi Arabia	United Arab Emirates	1988	0
+Saudi Arabia	Viet Nam	1988	0
+South Korea	Bangladesh	1988	0
+South Korea	China	1988	0
+South Korea	Hong Kong	1988	0
+South Korea	India	1988	0
+South Korea	Iran	1988	0
+South Korea	Israel	1988	0
+South Korea	Japan	1988	19
+South Korea	Pakistan	1988	0
+South Korea	Saudi Arabia	1988	0
+South Korea	United Arab Emirates	1988	0
+South Korea	Viet Nam	1988	0
+United Arab Emirates	Bangladesh	1988	0
+United Arab Emirates	China	1988	0
+United Arab Emirates	Hong Kong	1988	0
+United Arab Emirates	India	1988	0
+United Arab Emirates	Iran	1988	0
+United Arab Emirates	Israel	1988	0
+United Arab Emirates	Japan	1988	0
+United Arab Emirates	Pakistan	1988	0
+United Arab Emirates	Saudi Arabia	1988	0
+United Arab Emirates	South Korea	1988	0
+United Arab Emirates	Viet Nam	1988	0
+Viet Nam	Bangladesh	1988	0
+Viet Nam	China	1988	0
+Viet Nam	Hong Kong	1988	0
+Viet Nam	India	1988	0
+Viet Nam	Iran	1988	0
+Viet Nam	Israel	1988	0
+Viet Nam	Japan	1988	0
+Viet Nam	Pakistan	1988	0
+Viet Nam	Saudi Arabia	1988	0
+Viet Nam	South Korea	1988	0
+Viet Nam	United Arab Emirates	1988	0
+Bangladesh	China	1987	0
+Bangladesh	Hong Kong	1987	0
+Bangladesh	India	1987	0
+Bangladesh	Iran	1987	0
+Bangladesh	Israel	1987	0
+Bangladesh	Japan	1987	0
+Bangladesh	Pakistan	1987	0
+Bangladesh	Saudi Arabia	1987	0
+Bangladesh	South Korea	1987	0
+Bangladesh	United Arab Emirates	1987	0
+Bangladesh	Viet Nam	1987	0
+China	Bangladesh	1987	0
+China	Hong Kong	1987	35153
+China	India	1987	0
+China	Iran	1987	0
+China	Israel	1987	0
+China	Japan	1987	0
+China	Pakistan	1987	0
+China	Saudi Arabia	1987	0
+China	South Korea	1987	0
+China	United Arab Emirates	1987	0
+China	Viet Nam	1987	0
+Hong Kong	Bangladesh	1987	0
+Hong Kong	China	1987	450
+Hong Kong	India	1987	0
+Hong Kong	Iran	1987	0
+Hong Kong	Israel	1987	0
+Hong Kong	Japan	1987	0
+Hong Kong	Pakistan	1987	0
+Hong Kong	Saudi Arabia	1987	0
+Hong Kong	South Korea	1987	0
+Hong Kong	United Arab Emirates	1987	0
+Hong Kong	Viet Nam	1987	0
+India	Bangladesh	1987	38
+India	China	1987	0
+India	Hong Kong	1987	0
+India	Iran	1987	0
+India	Israel	1987	0
+India	Japan	1987	0
+India	Pakistan	1987	0
+India	Saudi Arabia	1987	97
+India	South Korea	1987	0
+India	United Arab Emirates	1987	232
+India	Viet Nam	1987	0
+Iran	Bangladesh	1987	0
+Iran	China	1987	0
+Iran	Hong Kong	1987	0
+Iran	India	1987	0
+Iran	Israel	1987	0
+Iran	Japan	1987	0
+Iran	Pakistan	1987	0
+Iran	Saudi Arabia	1987	0
+Iran	South Korea	1987	0
+Iran	United Arab Emirates	1987	0
+Iran	Viet Nam	1987	0
+Israel	Bangladesh	1987	0
+Israel	China	1987	0
+Israel	Hong Kong	1987	0
+Israel	India	1987	0
+Israel	Iran	1987	0
+Israel	Japan	1987	0
+Israel	Pakistan	1987	0
+Israel	Saudi Arabia	1987	0
+Israel	South Korea	1987	0
+Israel	United Arab Emirates	1987	0
+Israel	Viet Nam	1987	0
+Japan	Bangladesh	1987	0
+Japan	China	1987	2
+Japan	Hong Kong	1987	4
+Japan	India	1987	0
+Japan	Iran	1987	0
+Japan	Israel	1987	0
+Japan	Pakistan	1987	0
+Japan	Saudi Arabia	1987	0
+Japan	South Korea	1987	11
+Japan	United Arab Emirates	1987	0
+Japan	Viet Nam	1987	0
+Pakistan	Bangladesh	1987	0
+Pakistan	China	1987	0
+Pakistan	Hong Kong	1987	0
+Pakistan	India	1987	0
+Pakistan	Iran	1987	0
+Pakistan	Israel	1987	0
+Pakistan	Japan	1987	0
+Pakistan	Saudi Arabia	1987	0
+Pakistan	South Korea	1987	0
+Pakistan	United Arab Emirates	1987	0
+Pakistan	Viet Nam	1987	0
+Saudi Arabia	Bangladesh	1987	0
+Saudi Arabia	China	1987	0
+Saudi Arabia	Hong Kong	1987	0
+Saudi Arabia	India	1987	0
+Saudi Arabia	Iran	1987	0
+Saudi Arabia	Israel	1987	0
+Saudi Arabia	Japan	1987	0
+Saudi Arabia	Pakistan	1987	0
+Saudi Arabia	South Korea	1987	0
+Saudi Arabia	United Arab Emirates	1987	0
+Saudi Arabia	Viet Nam	1987	0
+South Korea	Bangladesh	1987	0
+South Korea	China	1987	0
+South Korea	Hong Kong	1987	0
+South Korea	India	1987	0
+South Korea	Iran	1987	0
+South Korea	Israel	1987	0
+South Korea	Japan	1987	0
+South Korea	Pakistan	1987	0
+South Korea	Saudi Arabia	1987	0
+South Korea	United Arab Emirates	1987	0
+South Korea	Viet Nam	1987	0
+United Arab Emirates	Bangladesh	1987	0
+United Arab Emirates	China	1987	0
+United Arab Emirates	Hong Kong	1987	0
+United Arab Emirates	India	1987	0
+United Arab Emirates	Iran	1987	0
+United Arab Emirates	Israel	1987	0
+United Arab Emirates	Japan	1987	0
+United Arab Emirates	Pakistan	1987	0
+United Arab Emirates	Saudi Arabia	1987	0
+United Arab Emirates	South Korea	1987	0
+United Arab Emirates	Viet Nam	1987	0
+Viet Nam	Bangladesh	1987	0
+Viet Nam	China	1987	0
+Viet Nam	Hong Kong	1987	0
+Viet Nam	India	1987	0
+Viet Nam	Iran	1987	0
+Viet Nam	Israel	1987	0
+Viet Nam	Japan	1987	0
+Viet Nam	Pakistan	1987	0
+Viet Nam	Saudi Arabia	1987	0
+Viet Nam	South Korea	1987	0
+Viet Nam	United Arab Emirates	1987	0
+Bangladesh	China	1986	0
+Bangladesh	Hong Kong	1986	0
+Bangladesh	India	1986	0
+Bangladesh	Iran	1986	0
+Bangladesh	Israel	1986	0
+Bangladesh	Japan	1986	0
+Bangladesh	Pakistan	1986	0
+Bangladesh	Saudi Arabia	1986	0
+Bangladesh	South Korea	1986	0
+Bangladesh	United Arab Emirates	1986	0
+Bangladesh	Viet Nam	1986	0
+China	Bangladesh	1986	0
+China	Hong Kong	1986	0
+China	India	1986	0
+China	Iran	1986	0
+China	Israel	1986	0
+China	Japan	1986	0
+China	Pakistan	1986	0
+China	Saudi Arabia	1986	0
+China	South Korea	1986	0
+China	United Arab Emirates	1986	0
+China	Viet Nam	1986	0
+Hong Kong	Bangladesh	1986	0
+Hong Kong	China	1986	423
+Hong Kong	India	1986	0
+Hong Kong	Iran	1986	0
+Hong Kong	Israel	1986	0
+Hong Kong	Japan	1986	0
+Hong Kong	Pakistan	1986	0
+Hong Kong	Saudi Arabia	1986	0
+Hong Kong	South Korea	1986	0
+Hong Kong	United Arab Emirates	1986	0
+Hong Kong	Viet Nam	1986	0
+India	Bangladesh	1986	11
+India	China	1986	0
+India	Hong Kong	1986	0
+India	Iran	1986	0
+India	Israel	1986	0
+India	Japan	1986	0
+India	Pakistan	1986	0
+India	Saudi Arabia	1986	64
+India	South Korea	1986	0
+India	United Arab Emirates	1986	186
+India	Viet Nam	1986	0
+Iran	Bangladesh	1986	0
+Iran	China	1986	0
+Iran	Hong Kong	1986	0
+Iran	India	1986	0
+Iran	Israel	1986	0
+Iran	Japan	1986	0
+Iran	Pakistan	1986	0
+Iran	Saudi Arabia	1986	0
+Iran	South Korea	1986	0
+Iran	United Arab Emirates	1986	0
+Iran	Viet Nam	1986	0
+Israel	Bangladesh	1986	0
+Israel	China	1986	0
+Israel	Hong Kong	1986	0
+Israel	India	1986	0
+Israel	Iran	1986	0
+Israel	Japan	1986	0
+Israel	Pakistan	1986	0
+Israel	Saudi Arabia	1986	0
+Israel	South Korea	1986	0
+Israel	United Arab Emirates	1986	0
+Israel	Viet Nam	1986	0
+Japan	Bangladesh	1986	0
+Japan	China	1986	2
+Japan	Hong Kong	1986	11
+Japan	India	1986	0
+Japan	Iran	1986	0
+Japan	Israel	1986	0
+Japan	Pakistan	1986	0
+Japan	Saudi Arabia	1986	0
+Japan	South Korea	1986	0
+Japan	United Arab Emirates	1986	0
+Japan	Viet Nam	1986	0
+Pakistan	Bangladesh	1986	0
+Pakistan	China	1986	0
+Pakistan	Hong Kong	1986	0
+Pakistan	India	1986	0
+Pakistan	Iran	1986	0
+Pakistan	Israel	1986	0
+Pakistan	Japan	1986	0
+Pakistan	Saudi Arabia	1986	0
+Pakistan	South Korea	1986	0
+Pakistan	United Arab Emirates	1986	0
+Pakistan	Viet Nam	1986	0
+Saudi Arabia	Bangladesh	1986	0
+Saudi Arabia	China	1986	0
+Saudi Arabia	Hong Kong	1986	0
+Saudi Arabia	India	1986	0
+Saudi Arabia	Iran	1986	0
+Saudi Arabia	Israel	1986	0
+Saudi Arabia	Japan	1986	0
+Saudi Arabia	Pakistan	1986	0
+Saudi Arabia	South Korea	1986	0
+Saudi Arabia	United Arab Emirates	1986	0
+Saudi Arabia	Viet Nam	1986	0
+South Korea	Bangladesh	1986	0
+South Korea	China	1986	0
+South Korea	Hong Kong	1986	0
+South Korea	India	1986	0
+South Korea	Iran	1986	0
+South Korea	Israel	1986	0
+South Korea	Japan	1986	0
+South Korea	Pakistan	1986	0
+South Korea	Saudi Arabia	1986	0
+South Korea	United Arab Emirates	1986	0
+South Korea	Viet Nam	1986	0
+United Arab Emirates	Bangladesh	1986	0
+United Arab Emirates	China	1986	0
+United Arab Emirates	Hong Kong	1986	0
+United Arab Emirates	India	1986	0
+United Arab Emirates	Iran	1986	0
+United Arab Emirates	Israel	1986	0
+United Arab Emirates	Japan	1986	0
+United Arab Emirates	Pakistan	1986	0
+United Arab Emirates	Saudi Arabia	1986	0
+United Arab Emirates	South Korea	1986	0
+United Arab Emirates	Viet Nam	1986	0
+Viet Nam	Bangladesh	1986	0
+Viet Nam	China	1986	0
+Viet Nam	Hong Kong	1986	0
+Viet Nam	India	1986	0
+Viet Nam	Iran	1986	0
+Viet Nam	Israel	1986	0
+Viet Nam	Japan	1986	0
+Viet Nam	Pakistan	1986	0
+Viet Nam	Saudi Arabia	1986	0
+Viet Nam	South Korea	1986	0
+Viet Nam	United Arab Emirates	1986	0

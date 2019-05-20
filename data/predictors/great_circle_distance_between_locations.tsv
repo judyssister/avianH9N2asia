@@ -1,0 +1,133 @@
+from	to	distance
+Bangladesh	China	1899986.6266988544
+Bangladesh	Hong Kong	2434697.342479811
+Bangladesh	India	1223694.201111119
+Bangladesh	Iran	3711499.477176874
+Bangladesh	Israel	5492972.289568176
+Bangladesh	Japan	4773967.366985468
+Bangladesh	Pakistan	2208291.638698529
+Bangladesh	Saudi Arabia	4591609.249133436
+Bangladesh	South Korea	3833399.5835586768
+Bangladesh	United Arab Emirates	3715185.5175500074
+Bangladesh	Viet Nam	2167351.2538150824
+China	Bangladesh	1899986.6266988544
+China	Hong Kong	1779714.6814279752
+China	India	2987137.8274321817
+China	Iran	4617478.827786098
+China	Israel	6326749.787072249
+China	Japan	3050171.078287288
+China	Pakistan	3288289.873184531
+China	Saudi Arabia	5773083.364411195
+China	South Korea	2120736.7559536686
+China	United Arab Emirates	5006481.34652758
+China	Viet Nam	2461153.5017382037
+Hong Kong	Bangladesh	2434697.342479811
+Hong Kong	China	1779714.6814279752
+Hong Kong	India	3637787.1642999505
+Hong Kong	Iran	5997478.37805847
+Hong Kong	Israel	7777954.273669509
+Hong Kong	Japan	2790060.0266114073
+Hong Kong	Pakistan	4522170.29831529
+Hong Kong	Saudi Arabia	6992863.5679832855
+Hong Kong	South Korea	2001832.426047012
+Hong Kong	United Arab Emirates	6132565.328227919
+Hong Kong	Viet Nam	1113958.573906248
+India	Bangladesh	1223694.201111119
+India	China	2987137.8274321817
+India	Hong Kong	3637787.1642999505
+India	Iran	2830921.2048446634
+India	Israel	4539520.441250835
+India	Japan	5965979.977475516
+India	Pakistan	1454481.0503668732
+India	Saudi Arabia	3502308.911860568
+India	South Korea	5022330.875133424
+India	United Arab Emirates	2607801.391749081
+India	Viet Nam	3193864.803754091
+Iran	Bangladesh	3711499.477176874
+Iran	China	4617478.827786098
+Iran	Hong Kong	5997478.37805847
+Iran	India	2830921.2048446634
+Iran	Israel	1787621.1228232218
+Iran	Japan	7523936.531918635
+Iran	Pakistan	1503689.4312203685
+Iran	Saudi Arabia	1270953.9867357712
+Iran	South Korea	6664194.524136985
+Iran	United Arab Emirates	1002424.7096248373
+Iran	Viet Nam	5876933.02417947
+Israel	Bangladesh	5492972.289568176
+Israel	China	6326749.787072249
+Israel	Hong Kong	7777954.273669509
+Israel	India	4539520.441250835
+Israel	Iran	1787621.1228232218
+Israel	Japan	9094531.968205689
+Israel	Pakistan	3288759.6762058833
+Israel	Saudi Arabia	1285618.6623110424
+Israel	South Korea	8293748.077128059
+Israel	United Arab Emirates	2058854.1660342896
+Israel	Viet Nam	7653799.161449529
+Japan	Bangladesh	4773967.366985468
+Japan	China	3050171.078287288
+Japan	Hong Kong	2790060.0266114073
+Japan	India	5965979.977475516
+Japan	Iran	7523936.531918635
+Japan	Israel	9094531.968205689
+Japan	Pakistan	6310435.555975318
+Japan	Saudi Arabia	8745360.404128307
+Japan	South Korea	943807.6904751962
+Japan	United Arab Emirates	8028536.456830572
+Japan	Viet Nam	3869760.1977383764
+Pakistan	Bangladesh	2208291.638698529
+Pakistan	China	3288289.873184531
+Pakistan	Hong Kong	4522170.29831529
+Pakistan	India	1454481.0503668732
+Pakistan	Iran	1503689.4312203685
+Pakistan	Israel	3288759.6762058833
+Pakistan	Japan	6310435.555975318
+Pakistan	Saudi Arabia	2504400.3900666106
+Pakistan	South Korea	5400135.780595995
+Pakistan	United Arab Emirates	1719769.1838553976
+Pakistan	Viet Nam	4374846.9279838065
+Saudi Arabia	Bangladesh	4591609.249133436
+Saudi Arabia	China	5773083.364411195
+Saudi Arabia	Hong Kong	6992863.5679832855
+Saudi Arabia	India	3502308.911860568
+Saudi Arabia	Iran	1270953.9867357712
+Saudi Arabia	Israel	1285618.6623110424
+Saudi Arabia	Japan	8745360.404128307
+Saudi Arabia	Pakistan	2504400.3900666106
+Saudi Arabia	South Korea	7862026.483975739
+Saudi Arabia	United Arab Emirates	895439.2463796474
+Saudi Arabia	Viet Nam	6691689.303360436
+South Korea	Bangladesh	3833399.5835586768
+South Korea	China	2120736.7559536686
+South Korea	Hong Kong	2001832.426047012
+South Korea	India	5022330.875133424
+South Korea	Iran	6664194.524136985
+South Korea	Israel	8293748.077128059
+South Korea	Japan	943807.6904751962
+South Korea	Pakistan	5400135.780595995
+South Korea	Saudi Arabia	7862026.483975739
+South Korea	United Arab Emirates	7119902.092052012
+South Korea	Viet Nam	3114257.9428223623
+United Arab Emirates	Bangladesh	3715185.5175500074
+United Arab Emirates	China	5006481.34652758
+United Arab Emirates	Hong Kong	6132565.328227919
+United Arab Emirates	India	2607801.391749081
+United Arab Emirates	Iran	1002424.7096248373
+United Arab Emirates	Israel	2058854.1660342896
+United Arab Emirates	Japan	8028536.456830572
+United Arab Emirates	Pakistan	1719769.1838553976
+United Arab Emirates	Saudi Arabia	895439.2463796474
+United Arab Emirates	South Korea	7119902.092052012
+United Arab Emirates	Viet Nam	5799270.216589791
+Viet Nam	Bangladesh	2167351.2538150824
+Viet Nam	China	2461153.5017382037
+Viet Nam	Hong Kong	1113958.573906248
+Viet Nam	India	3193864.803754091
+Viet Nam	Iran	5876933.02417947
+Viet Nam	Israel	7653799.161449529
+Viet Nam	Japan	3869760.1977383764
+Viet Nam	Pakistan	4374846.9279838065
+Viet Nam	Saudi Arabia	6691689.303360436
+Viet Nam	South Korea	3114257.9428223623
+Viet Nam	United Arab Emirates	5799270.216589791

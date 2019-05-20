@@ -1,0 +1,133 @@
+from	to	trade.mean
+Bangladesh	China	NaN
+Bangladesh	Hong Kong	NaN
+Bangladesh	India	NaN
+Bangladesh	Iran	NaN
+Bangladesh	Israel	NaN
+Bangladesh	Japan	NaN
+Bangladesh	Pakistan	NaN
+Bangladesh	Saudi Arabia	NaN
+Bangladesh	South Korea	NaN
+Bangladesh	United Arab Emirates	NaN
+Bangladesh	Viet Nam	NaN
+China	Bangladesh	9
+China	Hong Kong	29471.88888888889
+China	India	NaN
+China	Iran	NaN
+China	Israel	NaN
+China	Japan	7
+China	Pakistan	21.5
+China	Saudi Arabia	NaN
+China	South Korea	NaN
+China	United Arab Emirates	NaN
+China	Viet Nam	12.6
+Hong Kong	Bangladesh	NaN
+Hong Kong	China	187.8421052631579
+Hong Kong	India	NaN
+Hong Kong	Iran	NaN
+Hong Kong	Israel	NaN
+Hong Kong	Japan	NaN
+Hong Kong	Pakistan	NaN
+Hong Kong	Saudi Arabia	NaN
+Hong Kong	South Korea	10
+Hong Kong	United Arab Emirates	NaN
+Hong Kong	Viet Nam	NaN
+India	Bangladesh	1628.9130434782608
+India	China	NaN
+India	Hong Kong	NaN
+India	Iran	17
+India	Israel	NaN
+India	Japan	50
+India	Pakistan	3
+India	Saudi Arabia	84.66666666666667
+India	South Korea	341
+India	United Arab Emirates	139.10526315789474
+India	Viet Nam	NaN
+Iran	Bangladesh	NaN
+Iran	China	NaN
+Iran	Hong Kong	NaN
+Iran	India	NaN
+Iran	Israel	NaN
+Iran	Japan	NaN
+Iran	Pakistan	NaN
+Iran	Saudi Arabia	NaN
+Iran	South Korea	NaN
+Iran	United Arab Emirates	21.857142857142858
+Iran	Viet Nam	NaN
+Israel	Bangladesh	NaN
+Israel	China	21
+Israel	Hong Kong	26.25
+Israel	India	52
+Israel	Iran	NaN
+Israel	Japan	38
+Israel	Pakistan	NaN
+Israel	Saudi Arabia	NaN
+Israel	South Korea	NaN
+Israel	United Arab Emirates	NaN
+Israel	Viet Nam	62
+Japan	Bangladesh	12
+Japan	China	1.6666666666666667
+Japan	Hong Kong	6
+Japan	India	NaN
+Japan	Iran	NaN
+Japan	Israel	NaN
+Japan	Pakistan	NaN
+Japan	Saudi Arabia	NaN
+Japan	South Korea	33.333333333333336
+Japan	United Arab Emirates	NaN
+Japan	Viet Nam	NaN
+Pakistan	Bangladesh	8.222222222222221
+Pakistan	China	NaN
+Pakistan	Hong Kong	2
+Pakistan	India	NaN
+Pakistan	Iran	NaN
+Pakistan	Israel	NaN
+Pakistan	Japan	3.25
+Pakistan	Saudi Arabia	27.083333333333332
+Pakistan	South Korea	NaN
+Pakistan	United Arab Emirates	369.9375
+Pakistan	Viet Nam	NaN
+Saudi Arabia	Bangladesh	NaN
+Saudi Arabia	China	4
+Saudi Arabia	Hong Kong	NaN
+Saudi Arabia	India	420
+Saudi Arabia	Iran	25
+Saudi Arabia	Israel	NaN
+Saudi Arabia	Japan	NaN
+Saudi Arabia	Pakistan	NaN
+Saudi Arabia	South Korea	NaN
+Saudi Arabia	United Arab Emirates	461.8
+Saudi Arabia	Viet Nam	NaN
+South Korea	Bangladesh	NaN
+South Korea	China	NaN
+South Korea	Hong Kong	NaN
+South Korea	India	NaN
+South Korea	Iran	NaN
+South Korea	Israel	NaN
+South Korea	Japan	15.5
+South Korea	Pakistan	NaN
+South Korea	Saudi Arabia	NaN
+South Korea	United Arab Emirates	NaN
+South Korea	Viet Nam	12
+United Arab Emirates	Bangladesh	36
+United Arab Emirates	China	NaN
+United Arab Emirates	Hong Kong	NaN
+United Arab Emirates	India	1
+United Arab Emirates	Iran	397.6666666666667
+United Arab Emirates	Israel	NaN
+United Arab Emirates	Japan	NaN
+United Arab Emirates	Pakistan	NaN
+United Arab Emirates	Saudi Arabia	199.5
+United Arab Emirates	South Korea	NaN
+United Arab Emirates	Viet Nam	NaN
+Viet Nam	Bangladesh	NaN
+Viet Nam	China	NaN
+Viet Nam	Hong Kong	NaN
+Viet Nam	India	NaN
+Viet Nam	Iran	NaN
+Viet Nam	Israel	NaN
+Viet Nam	Japan	NaN
+Viet Nam	Pakistan	NaN
+Viet Nam	Saudi Arabia	NaN
+Viet Nam	South Korea	NaN
+Viet Nam	United Arab Emirates	NaN

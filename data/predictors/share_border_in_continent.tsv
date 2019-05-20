@@ -1,0 +1,133 @@
+from	to	border
+Bangladesh	China	0
+Bangladesh	Hong Kong	0
+Bangladesh	India	1
+Bangladesh	Iran	0
+Bangladesh	Israel	0
+Bangladesh	Japan	0
+Bangladesh	Pakistan	0
+Bangladesh	Saudi Arabia	0
+Bangladesh	South Korea	0
+Bangladesh	United Arab Emirates	0
+Bangladesh	Viet Nam	0
+China	Bangladesh	0
+China	Hong Kong	1
+China	India	1
+China	Iran	0
+China	Israel	0
+China	Japan	0
+China	Pakistan	1
+China	Saudi Arabia	0
+China	South Korea	0
+China	United Arab Emirates	0
+China	Viet Nam	1
+Hong Kong	Bangladesh	0
+Hong Kong	China	1
+Hong Kong	India	0
+Hong Kong	Iran	0
+Hong Kong	Israel	0
+Hong Kong	Japan	0
+Hong Kong	Pakistan	0
+Hong Kong	Saudi Arabia	0
+Hong Kong	South Korea	0
+Hong Kong	United Arab Emirates	0
+Hong Kong	Viet Nam	0
+India	Bangladesh	1
+India	China	1
+India	Hong Kong	0
+India	Iran	0
+India	Israel	0
+India	Japan	0
+India	Pakistan	1
+India	Saudi Arabia	0
+India	South Korea	0
+India	United Arab Emirates	0
+India	Viet Nam	0
+Iran	Bangladesh	0
+Iran	China	0
+Iran	Hong Kong	0
+Iran	India	0
+Iran	Israel	0
+Iran	Japan	0
+Iran	Pakistan	1
+Iran	Saudi Arabia	0
+Iran	South Korea	0
+Iran	United Arab Emirates	0
+Iran	Viet Nam	0
+Israel	Bangladesh	0
+Israel	China	0
+Israel	Hong Kong	0
+Israel	India	0
+Israel	Iran	0
+Israel	Japan	0
+Israel	Pakistan	0
+Israel	Saudi Arabia	0
+Israel	South Korea	0
+Israel	United Arab Emirates	0
+Israel	Viet Nam	0
+Japan	Bangladesh	0
+Japan	China	0
+Japan	Hong Kong	0
+Japan	India	0
+Japan	Iran	0
+Japan	Israel	0
+Japan	Pakistan	0
+Japan	Saudi Arabia	0
+Japan	South Korea	0
+Japan	United Arab Emirates	0
+Japan	Viet Nam	0
+Pakistan	Bangladesh	0
+Pakistan	China	1
+Pakistan	Hong Kong	0
+Pakistan	India	1
+Pakistan	Iran	1
+Pakistan	Israel	0
+Pakistan	Japan	0
+Pakistan	Saudi Arabia	0
+Pakistan	South Korea	0
+Pakistan	United Arab Emirates	0
+Pakistan	Viet Nam	0
+Saudi Arabia	Bangladesh	0
+Saudi Arabia	China	0
+Saudi Arabia	Hong Kong	0
+Saudi Arabia	India	0
+Saudi Arabia	Iran	0
+Saudi Arabia	Israel	0
+Saudi Arabia	Japan	0
+Saudi Arabia	Pakistan	0
+Saudi Arabia	South Korea	0
+Saudi Arabia	United Arab Emirates	1
+Saudi Arabia	Viet Nam	0
+South Korea	Bangladesh	0
+South Korea	China	0
+South Korea	Hong Kong	0
+South Korea	India	0
+South Korea	Iran	0
+South Korea	Israel	0
+South Korea	Japan	0
+South Korea	Pakistan	0
+South Korea	Saudi Arabia	0
+South Korea	United Arab Emirates	0
+South Korea	Viet Nam	0
+United Arab Emirates	Bangladesh	0
+United Arab Emirates	China	0
+United Arab Emirates	Hong Kong	0
+United Arab Emirates	India	0
+United Arab Emirates	Iran	0
+United Arab Emirates	Israel	0
+United Arab Emirates	Japan	0
+United Arab Emirates	Pakistan	0
+United Arab Emirates	Saudi Arabia	1
+United Arab Emirates	South Korea	0
+United Arab Emirates	Viet Nam	0
+Viet Nam	Bangladesh	0
+Viet Nam	China	1
+Viet Nam	Hong Kong	0
+Viet Nam	India	0
+Viet Nam	Iran	0
+Viet Nam	Israel	0
+Viet Nam	Japan	0
+Viet Nam	Pakistan	0
+Viet Nam	Saudi Arabia	0
+Viet Nam	South Korea	0
+Viet Nam	United Arab Emirates	0
